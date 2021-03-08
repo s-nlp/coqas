@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>CoQAS: Comparative Question Answering System</title>
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+    </style>
+
+    <link href="{{ path }}static/css/targer.css" rel="stylesheet">
+    <link href="{{ path }}static/css/progress.css" rel="stylesheet">
+    <link href="{{ path }}static/css/pbar.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ path }}static/css/ion.rangeSlider.css">
+    <link rel="icon" href="data:;base64,=">
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+</head>
+<body>
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <a class="navbar-brand" href="#">Comparative Question Answering System</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+            aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class=" collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" href="https://github.com/sayankotor/cqas">Github</a>
+            </li>
+        </ul>
+
+    </div>
+</nav>
+
+
+<main role="main" class="container">
+    <div class="tab-content" id="nav-tabContent">
+        <div class="tab-pane fade show active" id="nav-label" role="tabpanel" aria-labelledby="nav-label-tab">
+
+
+            <div class="card content-block">
+                <div class="card-body">
+                    <h5 class="card-title">Enter a comparative question</h5>
+                    <form>
+                        <div class="form-row">
+                            <div class="col-9">
+                        <textarea class="form-control" id="labelTextt" rows="5">What is better for deep learning: Python or Matlab?</textarea>
+                        </div>
+                            <div class="col" style="margin-left: 15px">
+                                <div class="form-row">
+                                    <label for="model">Model to generate with</label>
+                                    <select class="form-control" id="model">
+                                        <option value="Snippets">Snippet</option>
+                                        <option value="CAM">CAM</option>
+                                        <option value="Ctrl">CTRL</option>
+                                    </select>
+                                </div>
+                                <div class="form-row">
+                                    <a class="btn btn-lg btn-primary" href="#" id="button_label1"
+                                       role="button" style="margin-top: 15px">Answer</a>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+        <div class="tab-pane fade" id="nav-search" role="tabpanel" aria-labelledby="nav-search-tab">
+            <div class="card content-block">
+                <div class="card-body">
+                    <h5 class="card-title">How to use</h5>
+                    <form>
+                        <p>To set the word labelling model, change one from "Model to label" options.</p>
+                        <p>To model for generation, change one from "Model to generate" options</p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="pbar" class="progress" style="position: relative;">
+        <div class="progress-bar progress-bar-striped indeterminate">
+        </div>
+    </div>
+    
+    <div id="displacy-container1" class="card content-block">
+        <div class="card-body">
+            <div id="displacy1"></div>
+        </div>
+    </div>
+    
+    <div id="displacy-container0" class="card content-block">
+          <div class="card-body">
+                <div id="displacy0"></div>
+            </div>
+    </div>
+
+</main>
+  
+<script src="{{ path }}static/js/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+<script src="{{ path }}static/js/ion.rangeSlider.js"></script>
+<script type='text/javascript' src="{{ path }}static/js/displacy-ent.js"></script>
+<script type='text/javascript' src="static/js/targer2.js"></script>
+</body>
+</html>

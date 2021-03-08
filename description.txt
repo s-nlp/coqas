@@ -1,0 +1,30 @@
+Targer (NER) - клонированная адаптрованная версия в папке рядом.
+Проблемы: параписать для чтения csv-формата, кодировка - декодировка в utf-8, несовместима с некоторыми версиями кудовских дров(вот например с теми, что на нашей машине)
+
+gsutil - в ubuntu уже есть gsutil в user/bin,она ее затеняет. Если ставить через apt-get, ставиться по умолчанию в user/bin  как изменить папку бинарника в апт-гет неизвестно. 
+Если ставить через pip, ставится в папку 3-его питона, и дальше исполняется из-под 3его питона, и дальше идет та замечательная ошибка про UTF-8. Видимо надо поставить 2ой питон и исполнять из-под него.
+
+Comparative Question-Answer Datasets: parse-*.ipynb notebooks and *.csv. http://www.msmarco.org https://ai.google.com/research/NaturalQuestions/ 
+Видимо предполагалось, что нужно из вопросов вдатасетах выьащить те, которые помесены как сравнительные
+в обоих csv файлах только 98 вопросов, помеченных как "comp" (parse-natural-questions.ipynb)
+
+
+
+fast-text + BiRNN + default
+f1 = 84.54, precision = 85.08, recall = 84.00
+
+fast-text + BiRNNCRF + default
+Final eval on test, "save best", best epoch on dev 52, f1-alpha-match-10, test = 85.07)
+f1 = 85.07, precision = 87.37, recall = 82.89
+
+
+
+fast-text + BiRNNCNN + default
+Final eval on test, "save best", best epoch on dev 51, f1-alpha-match-10, test = 83.12)
+f1 = 83.12, precision = 85.58, recall = 80.80
+
+fast-text + BiRNNCNNCFR + default
+f1 = 85.26, precision = 89.06, recall = 81.77
+
+
+Супер-коротко: Bert - мультиязыковой, а Elmo учитывает контекст

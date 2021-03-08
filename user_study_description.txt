@@ -1,0 +1,32 @@
+[USER STUDY DESIGN]
+
+30 questions, 3 generated answers, one Yahoo! Best answer.
+Participants are shown question-answer pairs in a random order. Participants do not know what model was used for generation or whether an answer is human-written.
+Software is a console application written in Python.
+
+[INCLUDE THE CONSENT AT THE BEGINNING]
+
+CONSENT TO PARTICIPATE IN THE USER STUDY.
+
+Participation in this study is entirely voluntary. You may refuse to continue at any point without giving reasons. You may ask the researchers any questions about the research and the study. You may decide not to answer our questions or ask for your data to be withdrawn. Your names will never be connected to the research results; we do not ask you to provide your name neither your email address. Information that would make it possible to identify any participant will not be included in any sort of report, or disclosed outside the project unless explicitly granted. The results of the study may be used in whole or in part for scientific publications, reports or other scientific and research documents.
+By entering "y", you confirm that you carefully read the Consent and agree with its conditions, and agree to participate in the study.
+
+Do you want to participate in the study? (y: to continue, anything else to quit).
+
+[TASK]
+
+You interact with a question-answering system and want an answer to a comparative question. Assume, you don't know the answer to the question.
+
+[FIRST EVALUATION QUESTION]
+
+Does this answer the question?
+1 - does not answer at all (the answer and the question are unrelated)
+2 - somehow answers (I still need to search for more information)            
+3 - answers completely (the answer is comprehensive, I don't need to search for more information)
+
+[SECOND EVALUATION QUESTION]
+
+How fluent is the answer?
+1 - not fluent at all (sentences are choppy, no logical connection between them, they contradict each other)
+2 - somewhat fluent (I can imagine, this answer could be written by a human)    
+3 - absolutely fluent (sentences are logically coherent, the answer is fluent, definitely written by a human)

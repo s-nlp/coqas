@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(rgba(125, 149, 255, 1.0), rgba(125, 149, 255, 1.0) 60%, #FFE87C);
+    color: black;
+}
+
+p {
+font-family: verdana;
+font-size: 200%;
+text-align: center;
+}
+p  {
+color: black;
+font-size: 200%;
+font-family: courier;
+}

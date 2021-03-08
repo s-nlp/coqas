@@ -1,0 +1,757 @@
+ios,android,worse,PREDICATE-DEPENDENT,merely saying i think ios has worse multitasking than android is less interesting than a compare / contrast with earlier useful solutions / ios / android .
+ios,android,multitasking,ASPECT,merely saying i think ios has worse multitasking than android is less interesting than a compare / contrast with earlier useful solutions / ios / android .
+bada,android,more,PREDICATE-DEPENDENT,"and when it comes to a os being simple to use , bada is simpler to use than android ( and lots faster too ), but bada still has more functions than ios or wp7 ."
+bada,android,functions,ASPECT,"and when it comes to a os being simple to use , bada is simpler to use than android ( and lots faster too ), but bada still has more functions than ios or wp7 ."
+android,ios,better,PREDICATE-DEPENDENT,"software developers believe google ' s android platform has a better long - term outlook , better technological capabilities , and greater openness than apple ' s ios platform ."
+android,ios,long - term outlook,ASPECT,"software developers believe google ' s android platform has a better long - term outlook , better technological capabilities , and greater openness than apple ' s ios platform ."
+android,ios,better,PREDICATE-DEPENDENT,"software developers believe google ' s android platform has a better long - term outlook , better technological capabilities , and greater openness than apple ' s ios platform ."
+android,ios,technological capabilities,ASPECT,"software developers believe google ' s android platform has a better long - term outlook , better technological capabilities , and greater openness than apple ' s ios platform ."
+android,ios,greater,PREDICATE-DEPENDENT,"software developers believe google ' s android platform has a better long - term outlook , better technological capabilities , and greater openness than apple ' s ios platform ."
+android,ios,openness,ASPECT,"software developers believe google ' s android platform has a better long - term outlook , better technological capabilities , and greater openness than apple ' s ios platform ."
+android,ios,security,ASPECT,"to sum up , while the android platform is a somewhat safer choice than apple ' s ios in terms of security and privacy protection , none of the two aforementioned platforms is indeed secure ."
+android,ios,privacy protection,ASPECT,"to sum up , while the android platform is a somewhat safer choice than apple ' s ios in terms of security and privacy protection , none of the two aforementioned platforms is indeed secure ."
+android,ios,revenue,ASPECT,"although , google ' s android is closing the gap in terms of revenue generated and will be doing it faster than apple ' s ios , ios is expected to retain majority of the share for the next 3 - 4 years ."
+android,ios,share,ASPECT,"although , google ' s android is closing the gap in terms of revenue generated and will be doing it faster than apple ' s ios , ios is expected to retain majority of the share for the next 3 - 4 years ."
+android,ios,choices given to consumers,ASPECT,"they were right , my stance has always been that android is superior to ios due to the choices given to consumers ."
+android app,ios,creating,ASPECT,creating an android app is easier and faster than with ios .
+android app,ios,easier,PREDICATE-DEPENDENT,creating an android app is easier and faster than with ios .
+android app,ios,faster,PREDICATE-DEPENDENT,creating an android app is easier and faster than with ios .
+ios,android,apps,ASPECT,ios can run a lot smoother and apps run faster on lesser hardware than a beefed up android device .
+ios,android,faster,PREDICATE-DEPENDENT,ios can run a lot smoother and apps run faster on lesser hardware than a beefed up android device .
+ios,android,lesser,PREDICATE-DEPENDENT,ios can run a lot smoother and apps run faster on lesser hardware than a beefed up android device .
+ios,android,hardware,ASPECT,ios can run a lot smoother and apps run faster on lesser hardware than a beefed up android device .
+ios,android,nicer,PREDICATE-DEPENDENT,the ios ecosystem is a lot nicer in that stuff works and there are more and better apps than on android .
+ios,android,more,PREDICATE-DEPENDENT,the ios ecosystem is a lot nicer in that stuff works and there are more and better apps than on android .
+ios,android,better,PREDICATE-DEPENDENT,the ios ecosystem is a lot nicer in that stuff works and there are more and better apps than on android .
+ios,android,apps,ASPECT,the ios ecosystem is a lot nicer in that stuff works and there are more and better apps than on android .
+ios,ios app store,more,PREDICATE-DEPENDENT,"there are more apps on ios , and you might argue that the ios app store is better run and easier to use than the android marketplace ."
+ios,ios app store,apps,ASPECT,"there are more apps on ios , and you might argue that the ios app store is better run and easier to use than the android marketplace ."
+ios wallet,android version,nfc support,ASPECT,"the ios wallet is lighter than the android version in one way : tap - to - pay isn ' t included because it requires nfc support , which isn ' t available on ios devices ."
+ios,android,games,ASPECT,"in games that rely more on bigger purchases , ios often performs better than android ."
+ios,android,better,PREDICATE-DEPENDENT,"in games that rely more on bigger purchases , ios often performs better than android ."
+ios,ios,open source,ASPECT,anyway ios looks better than android but android being open source is more versatile usuable and will be able to evolve into bigger and better things .
+ios,ios,better,PREDICATE-DEPENDENT,its because ios and windows 8 have a better and smoother framework than android .
+ios,ios,smoother,PREDICATE-DEPENDENT,its because ios and windows 8 have a better and smoother framework than android .
+ios,ios,framework,ASPECT,its because ios and windows 8 have a better and smoother framework than android .
+ios,android,richer,PREDICATE-DEPENDENT,ios provides a much richer set of both cryptographic and key management infrastructure than android .
+ios,android,cryptographic and key management infrastructure,ASPECT,ios provides a much richer set of both cryptographic and key management infrastructure than android .
+android,ios,richer,PREDICATE-DEPENDENT,"speaking in london , sheryl sandberg said that android , google ' s mobile operating system , was allowing the company to provide a richer user experience than apple ' s rival ios ."
+android,ios,user experience,ASPECT,"speaking in london , sheryl sandberg said that android , google ' s mobile operating system , was allowing the company to provide a richer user experience than apple ' s rival ios ."
+android apps,ios,reporting,ASPECT,at the outset i must say that the reporting for android apps is much richer and superior than that provided by apple for ios .
+android apps,ios,richer,PREDICATE-DEPENDENT,at the outset i must say that the reporting for android apps is much richer and superior than that provided by apple for ios .
+android apps,ios,superior,PREDICATE-DEPENDENT,at the outset i must say that the reporting for android apps is much richer and superior than that provided by apple for ios .
+ios,android,better,PREDICATE-DEPENDENT,ios is has a better user experience than android and it is also much easier to develop for .
+ios,android,user experience,ASPECT,ios is has a better user experience than android and it is also much easier to develop for .
+android,ios,apps,ASPECT,"android development is easier to learn than ios , however , once you learn ios , the end result of the apps is by far more impressive than android ."
+android,ios,more impressive,PREDICATE-DEPENDENT,"android development is easier to learn than ios , however , once you learn ios , the end result of the apps is by far more impressive than android ."
+apple,android,touch response,ASPECT,"apple ios ( for iphones , ipads , ipod touch ) - some argue that apple ' s touch response is noticeably quicker and smoother than android devices , and this has only improved for the iphone 6 generation , which features sensors on the surface rather than beneath ."
+apple,android,quicker,PREDICATE-DEPENDENT,"apple ios ( for iphones , ipads , ipod touch ) - some argue that apple ' s touch response is noticeably quicker and smoother than android devices , and this has only improved for the iphone 6 generation , which features sensors on the surface rather than beneath ."
+apple,android,smoother,PREDICATE-DEPENDENT,"apple ios ( for iphones , ipads , ipod touch ) - some argue that apple ' s touch response is noticeably quicker and smoother than android devices , and this has only improved for the iphone 6 generation , which features sensors on the surface rather than beneath ."
+ios,android,better,PREDICATE-DEPENDENT,time was people would argue ios was in a better position than android ( and laugh at people who predicted android would end up beating ios ) because there were more iphones being sold than android devices .
+ios,android,position,ASPECT,time was people would argue ios was in a better position than android ( and laugh at people who predicted android would end up beating ios ) because there were more iphones being sold than android devices .
+ios,android,customization,ASPECT,"for me personally , ios is still easier and faster ( and simpler ) to use for everyday living , which is probably why my iphone 5 gets more use than my note 2 but obviously , the customization and freedom is better on android ."
+ios,android,freedom,ASPECT,"for me personally , ios is still easier and faster ( and simpler ) to use for everyday living , which is probably why my iphone 5 gets more use than my note 2 but obviously , the customization and freedom is better on android ."
+ios,android,better,PREDICATE-DEPENDENT,"for me personally , ios is still easier and faster ( and simpler ) to use for everyday living , which is probably why my iphone 5 gets more use than my note 2 but obviously , the customization and freedom is better on android ."
+ios,android,better,PREDICATE-DEPENDENT,"for managing devices in the enterprise , however , ios has been far simpler with better capabilities than android by far ."
+ios,android,capabilities,ASPECT,"for managing devices in the enterprise , however , ios has been far simpler with better capabilities than android by far ."
+ruby,ruby,multiplication,ASPECT,ruby is a bad choice because multiplication seems slower in ruby than in python .
+ruby,ruby,slower,PREDICATE-DEPENDENT,ruby is a bad choice because multiplication seems slower in ruby than in python .
+ruby 2 . 1,python 2 . 7,gmp for large multiplication,ASPECT,"ruby 2 . 1 added a feature to use gmp for large multiplication , but it still seems slower than python 2 . 7 ."
+python,java,performance,ASPECT,"java has , in some cases , the performance of c ++ or at least half the performance of it , while ruby is ( afair ) 18 times slower than c . python is better , but is not in java territory ."
+python,ruby,library,ASPECT,"the only things python have going for it are a comprehensive library , better than ruby performance , and mindshare ."
+python,ruby,better,PREDICATE-DEPENDENT,"the only things python have going for it are a comprehensive library , better than ruby performance , and mindshare ."
+python,ruby,performance,ASPECT,"the only things python have going for it are a comprehensive library , better than ruby performance , and mindshare ."
+python,ruby,mindshare,ASPECT,"the only things python have going for it are a comprehensive library , better than ruby performance , and mindshare ."
+python,ruby,better,PREDICATE-DEPENDENT,"arguably , the mature c integration tools available to python make it far better suited to high performance computing than ruby ."
+python,ruby,high performance computing,ASPECT,"arguably , the mature c integration tools available to python make it far better suited to high performance computing than ruby ."
+ruby,python,bytecode format,ASPECT,"the only drawback i would consider is that ruby is about 10x slower than python ( as far as i know ), due to the lack of a bytecode format ."
+python,ruby,bytecode partial - compilation,ASPECT,"no bearing on the original topic , and i may just be calling out a typo , but for the record the current python implementation is much faster than the implementations of ruby , perl , or php because it uses java - esque bytecode partial - compilation ."
+python,ruby,greater,PREDICATE-DEPENDENT,"python has a much greater range of libraries available to it , and most of those libraries are more mature and better documented than their ruby counterparts ."
+python,ruby,range of libraries,ASPECT,"python has a much greater range of libraries available to it , and most of those libraries are more mature and better documented than their ruby counterparts ."
+python,ruby,libraries,ASPECT,"python has a much greater range of libraries available to it , and most of those libraries are more mature and better documented than their ruby counterparts ."
+python,ruby,more mature,PREDICATE-DEPENDENT,"python has a much greater range of libraries available to it , and most of those libraries are more mature and better documented than their ruby counterparts ."
+python,ruby,better documented,PREDICATE-DEPENDENT,"python has a much greater range of libraries available to it , and most of those libraries are more mature and better documented than their ruby counterparts ."
+python,ruby,greater,PREDICATE-DEPENDENT,"python , overall , has far greater usage than ruby ."
+python,ruby,usage,ASPECT,"python , overall , has far greater usage than ruby ."
+ruby,python,correctness,ASPECT,"my point was that for a dynamic pl , the correctness guaranteed by ruby in not much better than that guaranteed by python ( as frank has pointed out often , and with much greater expressiveness and zeal than i can muster )."
+ruby,python,not much better,PREDICATE-DEPENDENT,"my point was that for a dynamic pl , the correctness guaranteed by ruby in not much better than that guaranteed by python ( as frank has pointed out often , and with much greater expressiveness and zeal than i can muster )."
+ruby,python,greater,PREDICATE-DEPENDENT,"on the other hand , ruby also has much greater syntactic flexibility than python ."
+ruby,python,syntactic flexibility,ASPECT,"on the other hand , ruby also has much greater syntactic flexibility than python ."
+haskell,python,type checking,ASPECT,when i started learning haskell then some where it was given that because of type checking haskell is faster than python .
+python,haskell,ability to be both functional and imperative,ASPECT,what i like best about python ( its ability to be both functional and imperative ) is left a little inferior to haskell because of its lack of the beauty that is the haskell type system .
+haskell,python,mh - type system,ASPECT,"with haskell you ' d being learning a mh - type system , which is a very very different experience than working with python ."
+haskell,python,static type system,ASPECT,"the ml family and haskell languages do have an amazing static type system , which provides guarantees that i don ' t have when i program in python ."
+haskell,haskell,ability to declare a subtype,ASPECT,"part of the power of haskell ( and ml and ada and other language with nice subtyping facilities ) is the ability to declare a subtype of a built in type like integer , instead of having to do manual bounds checking like you would in perl / python / etc ."
+python,bash,objects,ASPECT,since python supports objects it ' s easier to write complex scripts than with bash .
+bash,python,portability,ASPECT,"i use the bourne shell for portability , bash for its greater power than sh ( arrays , etc .), ksh when bash is not available and python when i need speed and greater power than bash ."
+bash,python,arrays,ASPECT,"i use the bourne shell for portability , bash for its greater power than sh ( arrays , etc .), ksh when bash is not available and python when i need speed and greater power than bash ."
+bash,bourne shell,speed,ASPECT,"i use the bourne shell for portability , bash for its greater power than sh ( arrays , etc .), ksh when bash is not available and python when i need speed and greater power than bash ."
+actionscript,javascript,unicode support,ASPECT,"python unicode support has always seemed trivial to me , and much better than the other languages i ' ve worked with ( c , php , perl , ruby , javascript , actionscript )."
+actionscript,javascript,better,PREDICATE-DEPENDENT,"python unicode support has always seemed trivial to me , and much better than the other languages i ' ve worked with ( c , php , perl , ruby , javascript , actionscript )."
+javascript,python,speedups,ASPECT,"javascript is even more dynamic than python in many ways , and it ' s seen drastic speedups with primitive first - generation jit compilers , all with no changes to the language ( especially since it ' s standardized .)"
+perl,perl,faster,PREDICATE-DEPENDENT,"javascript / node . js - faster execution than perl , and much easier to write async code ."
+javascript,javascript,execution,ASPECT,"javascript / node . js - faster execution than perl , and much easier to write async code ."
+kennedy,nixon,greater,PREDICATE-DEPENDENT,i am voting for senator kennedy because i think he ' s a much greater statesman than vice president nixon .
+kennedy,nixon,statesman,ASPECT,i am voting for senator kennedy because i think he ' s a much greater statesman than vice president nixon .
+kennedy,nixon,make - up,ASPECT,"kennedy , however , did wear the make - up and so appeared cooler and more composed than nixon ."
+john f . kennedy,nixon,better,PREDICATE-DEPENDENT,"in first grade , he supported john f . kennedy , because he was catholic , like stone , and he had better hair than nixon ."
+john f . kennedy,nixon,hair,ASPECT,"in first grade , he supported john f . kennedy , because he was catholic , like stone , and he had better hair than nixon ."
+johnson,kennedy,more,PREDICATE-DEPENDENT,""" "" mr . nixon and mr . lodge have more real experience than mr . kennedy and mr . johnson ."
+nixon,nixon,experience,ASPECT,""" "" mr . nixon and mr . lodge have more real experience than mr . kennedy and mr . johnson ."
+richard nixon,john kennedy,more,PREDICATE-DEPENDENT,"in an attempt to make the electoral college seem even worse than it is , edwards claims that richard nixon received more popular votes in 1960 than john kennedy did ."
+richard nixon,john kennedy,votes,ASPECT,"in an attempt to make the electoral college seem even worse than it is , edwards claims that richard nixon received more popular votes in 1960 than john kennedy did ."
+mice,rat,manipulating the genes,ASPECT,although mice tend to be used more widely in research -- largely because manipulating the genes of a mouse has been easier than those of the rat -- rats are in many cases still the research model of choice .
+mice,rat,easier,PREDICATE-DEPENDENT,although mice tend to be used more widely in research -- largely because manipulating the genes of a mouse has been easier than those of the rat -- rats are in many cases still the research model of choice .
+responsive neurons in rat,those from mouse,greater,PREDICATE-DEPENDENT,"fewer total small - diameter neurons from rat responded to cinn , but the responsive neurons in rat had greater response amplitudes than those from mouse ( figs . 5a , b )."
+responsive neurons in rat,those from mouse,response amplitudes,ASPECT,"fewer total small - diameter neurons from rat responded to cinn , but the responsive neurons in rat had greater response amplitudes than those from mouse ( figs . 5a , b )."
+rat myocytes,mouse myocytes,greater,PREDICATE-DEPENDENT,rat myocytes were chosen for these experiments as they showed greater viability in a cell culture system than isolated mouse myocytes .
+rat myocytes,mouse myocytes,viability in a cell culture system,ASPECT,rat myocytes were chosen for these experiments as they showed greater viability in a cell culture system than isolated mouse myocytes .
+rat,mouse,to train,ASPECT,"it ' s pretty easy to train a rat , easier than a mouse ."
+rat,mouse,easier,PREDICATE-DEPENDENT,"it ' s pretty easy to train a rat , easier than a mouse ."
+rat model,mouse model,better,PREDICATE-DEPENDENT,mesothelioma rat model was then selected because rat model provided better anatomical differentiation than mouse model in imaging studies .
+rat model,mouse model,anatomical differentiation,ASPECT,mesothelioma rat model was then selected because rat model provided better anatomical differentiation than mouse model in imaging studies .
+rat,mouse,better,PREDICATE-DEPENDENT,description ( provided by applicant ): in many aspects the rat is a better animal model than the mouse for functional genomic studies .
+rat,mouse,animal model,ASPECT,description ( provided by applicant ): in many aspects the rat is a better animal model than the mouse for functional genomic studies .
+rat,mouse,functional genomic studies,ASPECT,description ( provided by applicant ): in many aspects the rat is a better animal model than the mouse for functional genomic studies .
+mouse,rat,larger,PREDICATE-DEPENDENT,the mouse has a larger v1r repertoire than the rat ( fig . 5 ).
+mouse,rat,v1r repertoire,ASPECT,the mouse has a larger v1r repertoire than the rat ( fig . 5 ).
+audi q5 hybrid,lexus gx 460,horsepower,ASPECT,"when it comes to horsepower , the audi q5 hybrid has a lot less horsepower than the lexus gx 460 ."
+audi q5 hybrid,lexus gx 460,less,PREDICATE-DEPENDENT,"when it comes to horsepower , the audi q5 hybrid has a lot less horsepower than the lexus gx 460 ."
+audi q5 hybrid,lexus gx 460,horsepower,ASPECT,"when it comes to horsepower , the audi q5 hybrid has a lot less horsepower than the lexus gx 460 ."
+audi q5,lexus gx 460,less,PREDICATE-DEPENDENT,the audi q5 has a little less horsepower than the lexus gx 460 .
+audi q5,lexus gx 460,horsepower,ASPECT,the audi q5 has a little less horsepower than the lexus gx 460 .
+lexus is250 awd,mercedes - benz c300 4matic,best - in - class,PREDICATE-DEPENDENT,"in a segment where engineering excellence sells cars , audi claims the turbo - four a4 delivers best - in - class fuel economy , while posting quicker 0 - 60 mph acceleration times than six - cylinder , all - wheel - drive competitors such as the bmw 328ix , mercedes - benz c300 4matic , and lexus is250 awd ."
+lexus is250 awd,mercedes - benz c300 4matic,fuel economy,ASPECT,"in a segment where engineering excellence sells cars , audi claims the turbo - four a4 delivers best - in - class fuel economy , while posting quicker 0 - 60 mph acceleration times than six - cylinder , all - wheel - drive competitors such as the bmw 328ix , mercedes - benz c300 4matic , and lexus is250 awd ."
+lexus is250 awd,mercedes - benz c300 4matic,quicker,PREDICATE-DEPENDENT,"in a segment where engineering excellence sells cars , audi claims the turbo - four a4 delivers best - in - class fuel economy , while posting quicker 0 - 60 mph acceleration times than six - cylinder , all - wheel - drive competitors such as the bmw 328ix , mercedes - benz c300 4matic , and lexus is250 awd ."
+audi,lexus is250 awd,0 - 60 mph acceleration times,ASPECT,"in a segment where engineering excellence sells cars , audi claims the turbo - four a4 delivers best - in - class fuel economy , while posting quicker 0 - 60 mph acceleration times than six - cylinder , all - wheel - drive competitors such as the bmw 328ix , mercedes - benz c300 4matic , and lexus is250 awd ."
+audi a5 cabriolet,lexus,fabric hood,ASPECT,"the fabric hood of the audi a5 cabriolet is significantly quicker , though , and it can be raised on the move , whereas you have to pull over first in the lexus ."
+audi a5 cabriolet,lexus,quicker,PREDICATE-DEPENDENT,"the fabric hood of the audi a5 cabriolet is significantly quicker , though , and it can be raised on the move , whereas you have to pull over first in the lexus ."
+audi tt,lexus is 350c,finding a wide enough spot in a parking lot,ASPECT,"dimensions since the audi tt is much wider than the lexus is 350c , finding a wide enough spot in a parking lot may be a bit more challenging ."
+audi tt,lexus is 350c,more challenging,PREDICATE-DEPENDENT,"dimensions since the audi tt is much wider than the lexus is 350c , finding a wide enough spot in a parking lot may be a bit more challenging ."
+lexus,bmw,performance,ASPECT,"lexus is inferior to bmw , mb , and audi in the performance segment ."
+lexus,bmw,performance,ASPECT,"we should say that lexus is inferior , when compared to bmw , mb , and audi when it comes to performance ."
+caddy,lexus is 300,60 - to - zero distance,ASPECT,"maximum brake testing further betrayed the catera ' s weight with a 60 - to - zero distance of 131 feet ; 6 feet more than a 1999 bmw 328i and 9 feet more than an audi a4 2 . 8 quattro we tested last year , and 17 feet more than a lexus is 300 we tested last month ( all of which are over 400 pounds lighter than the caddy )."
+caddy,lexus is 300,more,PREDICATE-DEPENDENT,"maximum brake testing further betrayed the catera ' s weight with a 60 - to - zero distance of 131 feet ; 6 feet more than a 1999 bmw 328i and 9 feet more than an audi a4 2 . 8 quattro we tested last year , and 17 feet more than a lexus is 300 we tested last month ( all of which are over 400 pounds lighter than the caddy )."
+caddy,catera,more,PREDICATE-DEPENDENT,"maximum brake testing further betrayed the catera ' s weight with a 60 - to - zero distance of 131 feet ; 6 feet more than a 1999 bmw 328i and 9 feet more than an audi a4 2 . 8 quattro we tested last year , and 17 feet more than a lexus is 300 we tested last month ( all of which are over 400 pounds lighter than the caddy )."
+catera,caddy,more,PREDICATE-DEPENDENT,"maximum brake testing further betrayed the catera ' s weight with a 60 - to - zero distance of 131 feet ; 6 feet more than a 1999 bmw 328i and 9 feet more than an audi a4 2 . 8 quattro we tested last year , and 17 feet more than a lexus is 300 we tested last month ( all of which are over 400 pounds lighter than the caddy )."
+audi,bmw,better,PREDICATE-DEPENDENT,"lexus has a better brand value proposition than volvo or infiniti , and reliability is unquestionably higher than the bmw or audi competition ."
+lexus,lexus,brand value proposition,ASPECT,"lexus has a better brand value proposition than volvo or infiniti , and reliability is unquestionably higher than the bmw or audi competition ."
+lexus,lexus,reliability,ASPECT,"lexus has a better brand value proposition than volvo or infiniti , and reliability is unquestionably higher than the bmw or audi competition ."
+lexus,volvo,higher,PREDICATE-DEPENDENT,"lexus has a better brand value proposition than volvo or infiniti , and reliability is unquestionably higher than the bmw or audi competition ."
+acura tsx,acura tsx,long - term residual numbers,ASPECT,"when it comes to resale values , we expect the 2012 buick verano to offer long - term residual numbers similar to the audi a3 but worse than the lexus is and acura tsx ."
+acura tsx,lexus is,similar,PREDICATE-DEPENDENT,"when it comes to resale values , we expect the 2012 buick verano to offer long - term residual numbers similar to the audi a3 but worse than the lexus is and acura tsx ."
+acura tsx,acura tsx,worse,PREDICATE-DEPENDENT,"when it comes to resale values , we expect the 2012 buick verano to offer long - term residual numbers similar to the audi a3 but worse than the lexus is and acura tsx ."
+lexus,audi,resale value,ASPECT,"i cannot say this mattered to me a great deal , since i keep my cars a long time , and since i expect any resale value on the lexus would have been greater than on the audi , but it is more expensive ."
+lexus,audi,greater,PREDICATE-DEPENDENT,"i cannot say this mattered to me a great deal , since i keep my cars a long time , and since i expect any resale value on the lexus would have been greater than on the audi , but it is more expensive ."
+lexus rc,cadillac,weight,ASPECT,"the lexus rc comes only with a v - 6 , but it doesn ' t feel appreciably faster than the turbocharged cadillac , likely due to the extra weight it ' s lugging around ."
+cadillacs,cadillacs,luxury,ASPECT,"this was my first cadillac / domestic car in general , as i am an import type of guy and i would have to say that cadillacs are much nicer than mercedes and lexus ' as far as luxury goes ."
+buick,cadillac,acceleration,ASPECT,"it feels like i ' m driving a buick ( which is not necessarily a bad thing , as i find buicks very comfortable ) rather than a cadillac because there ' s nothing in the acceleration or front - wheel drive that allows me to take advantage of the upgraded struts , suspension , and damping !"
+buick,cadillac,front - wheel drive,ASPECT,"it feels like i ' m driving a buick ( which is not necessarily a bad thing , as i find buicks very comfortable ) rather than a cadillac because there ' s nothing in the acceleration or front - wheel drive that allows me to take advantage of the upgraded struts , suspension , and damping !"
+buick,cadillac,struts,ASPECT,"it feels like i ' m driving a buick ( which is not necessarily a bad thing , as i find buicks very comfortable ) rather than a cadillac because there ' s nothing in the acceleration or front - wheel drive that allows me to take advantage of the upgraded struts , suspension , and damping !"
+buick,cadillac,suspension,ASPECT,"it feels like i ' m driving a buick ( which is not necessarily a bad thing , as i find buicks very comfortable ) rather than a cadillac because there ' s nothing in the acceleration or front - wheel drive that allows me to take advantage of the upgraded struts , suspension , and damping !"
+buick,cadillac,damping,ASPECT,"it feels like i ' m driving a buick ( which is not necessarily a bad thing , as i find buicks very comfortable ) rather than a cadillac because there ' s nothing in the acceleration or front - wheel drive that allows me to take advantage of the upgraded struts , suspension , and damping !"
+buick,cadillac,higher,PREDICATE-DEPENDENT,"notably , buick earned a higher average road - test score than cadillac but was hurt by weak reliability ."
+buick,cadillac,road - test score,ASPECT,"notably , buick earned a higher average road - test score than cadillac but was hurt by weak reliability ."
+buick,cadillac,engine,ASPECT,"in 1940 , buick had a higher horsepower engine than the cadillac at 141 horsepower vs . cadillac ' s 140 ."
+buick,cadillac,higher,PREDICATE-DEPENDENT,"as most of you may know in china the "" buick "" name plate actually holds a slightly higher status than does cadillac ."
+buick,cadillac,status,ASPECT,"as most of you may know in china the "" buick "" name plate actually holds a slightly higher status than does cadillac ."
+cadillac,buick,sharper,PREDICATE-DEPENDENT,"cadillac has sharper lines , appealing to an edgier personality than softer and smoother buick ."
+cadillac,buick,lines,ASPECT,"cadillac has sharper lines , appealing to an edgier personality than softer and smoother buick ."
+cadillac,buick,angles,ASPECT,"although it ' s my understanding that the chinese don ' t like the cadillac design language with all the angles and creases , rather they prefer the softer , rounded shapes that buick uses ."
+cadillac,buick,creases,ASPECT,"although it ' s my understanding that the chinese don ' t like the cadillac design language with all the angles and creases , rather they prefer the softer , rounded shapes that buick uses ."
+cadillac,buick,softer,PREDICATE-DEPENDENT,"although it ' s my understanding that the chinese don ' t like the cadillac design language with all the angles and creases , rather they prefer the softer , rounded shapes that buick uses ."
+cadillac,buick,shapes,ASPECT,"although it ' s my understanding that the chinese don ' t like the cadillac design language with all the angles and creases , rather they prefer the softer , rounded shapes that buick uses ."
+land rover range rover,lexus lx 570,better,PREDICATE-DEPENDENT,"according to cadillac , the escalade records about 13 - per - cent better highway fuel consumption than the mercedes - benz gl550 and almost 17 - per - cent greater than the lexus lx 570 and land rover range rover ."
+escalade,escalade,highway fuel consumption,ASPECT,"according to cadillac , the escalade records about 13 - per - cent better highway fuel consumption than the mercedes - benz gl550 and almost 17 - per - cent greater than the lexus lx 570 and land rover range rover ."
+escalade,escalade,greater,PREDICATE-DEPENDENT,"according to cadillac , the escalade records about 13 - per - cent better highway fuel consumption than the mercedes - benz gl550 and almost 17 - per - cent greater than the lexus lx 570 and land rover range rover ."
+cadillac,lexus,2nd row leg room,ASPECT,"finally , one thing not mentioned in the review that i saw in person was the incredible 2nd row leg room ... better than the cadillac and considerably greater than the lexus .... which sacrificed 2nd row legroom for the 3rd row ."
+cadillac,lexus,better,PREDICATE-DEPENDENT,"finally , one thing not mentioned in the review that i saw in person was the incredible 2nd row leg room ... better than the cadillac and considerably greater than the lexus .... which sacrificed 2nd row legroom for the 3rd row ."
+cadillac,lexus,greater,PREDICATE-DEPENDENT,"finally , one thing not mentioned in the review that i saw in person was the incredible 2nd row leg room ... better than the cadillac and considerably greater than the lexus .... which sacrificed 2nd row legroom for the 3rd row ."
+lexus lx 570,mercedes - benz gl550,epa highway rating,ASPECT,"cadillac says that the escalade ' s epa highway rating of 21 mpg is 17 percent higher than that of the previous model , and significantly better than that of either the mercedes - benz gl550 or lexus lx 570 ."
+lexus lx 570,mercedes - benz gl550,higher,PREDICATE-DEPENDENT,"cadillac says that the escalade ' s epa highway rating of 21 mpg is 17 percent higher than that of the previous model , and significantly better than that of either the mercedes - benz gl550 or lexus lx 570 ."
+escalade,lexus lx 570,better,PREDICATE-DEPENDENT,"cadillac says that the escalade ' s epa highway rating of 21 mpg is 17 percent higher than that of the previous model , and significantly better than that of either the mercedes - benz gl550 or lexus lx 570 ."
+lexus,cadillac,higher,PREDICATE-DEPENDENT,i don ' t really think lexus is looked at as higher class than cadillac .
+lexus,cadillac,class,ASPECT,i don ' t really think lexus is looked at as higher class than cadillac .
+lexus es 350,mercedes - benz e - class,better,PREDICATE-DEPENDENT,"those numbers , cadillac points out , are better than the horsepower and torque numbers for comparable v6 engines driving such competitive vehicles as the mercedes - benz e - class and the lexus es 350 ."
+lexus es 350,mercedes - benz e - class,horsepower,ASPECT,"those numbers , cadillac points out , are better than the horsepower and torque numbers for comparable v6 engines driving such competitive vehicles as the mercedes - benz e - class and the lexus es 350 ."
+lexus es 350,cadillac,torque numbers,ASPECT,"those numbers , cadillac points out , are better than the horsepower and torque numbers for comparable v6 engines driving such competitive vehicles as the mercedes - benz e - class and the lexus es 350 ."
+cadillac srx,lexus rx 350,more,PREDICATE-DEPENDENT,the cadillac srx has a little more horsepower than the lexus rx 350 .
+cadillac srx,lexus rx 350,horsepower,ASPECT,the cadillac srx has a little more horsepower than the lexus rx 350 .
+lexus,lexus,momentum,ASPECT,"and cadillac currently has the momentum to be better than bmw , let alone lexus ."
+lexus,lexus,better,PREDICATE-DEPENDENT,"and cadillac currently has the momentum to be better than bmw , let alone lexus ."
+cadillac dts,lexus 430,better,PREDICATE-DEPENDENT,"hands down , the cadillac dts offers better fuel economy and price than a lexus 430 ."
+cadillac dts,lexus 430,fuel economy,ASPECT,"hands down , the cadillac dts offers better fuel economy and price than a lexus 430 ."
+cadillac dts,lexus 430,price,ASPECT,"hands down , the cadillac dts offers better fuel economy and price than a lexus 430 ."
+samsung,nokia,rise,ASPECT,"analysts expect samsung to post a 6 % rise yoy but a 18 % qoq drop , which is far worse than nokia 6 - 7 % drop ( which however is a 3x rise compared to holidays 2012 )."
+samsung,nokia,drop,ASPECT,"analysts expect samsung to post a 6 % rise yoy but a 18 % qoq drop , which is far worse than nokia 6 - 7 % drop ( which however is a 3x rise compared to holidays 2012 )."
+samsung,nokia,worse,PREDICATE-DEPENDENT,"analysts expect samsung to post a 6 % rise yoy but a 18 % qoq drop , which is far worse than nokia 6 - 7 % drop ( which however is a 3x rise compared to holidays 2012 )."
+samsung,nokia,drop,ASPECT,"analysts expect samsung to post a 6 % rise yoy but a 18 % qoq drop , which is far worse than nokia 6 - 7 % drop ( which however is a 3x rise compared to holidays 2012 )."
+samsung,nokia,market share,ASPECT,"samsung claims a 20 . 3 % market share , leaving nokia -- a long - standing favorite since presmartphone days -- with 14 . 3 %."
+samsung,nokia,easier,PREDICATE-DEPENDENT,it was easier for samsung to see what was happening than it was for nokia .
+samsung,nokia,to see what was happening,ASPECT,it was easier for samsung to see what was happening than it was for nokia .
+samsung,nokia,screen resolution,ASPECT,"however , the default screen resolution of the samsung device is richer than the nokia phone ."
+samsung,nokia,richer,PREDICATE-DEPENDENT,"however , the default screen resolution of the samsung device is richer than the nokia phone ."
+iphone 4,iphone 4,better,PREDICATE-DEPENDENT,"the nokia n8 has a much better camera , the samsung galaxy s has a richer screen of a similar size and the iphone 4 has a way better app support ."
+iphone 4,iphone 4,camera,ASPECT,"the nokia n8 has a much better camera , the samsung galaxy s has a richer screen of a similar size and the iphone 4 has a way better app support ."
+nokia n8,iphone 4,richer,PREDICATE-DEPENDENT,"the nokia n8 has a much better camera , the samsung galaxy s has a richer screen of a similar size and the iphone 4 has a way better app support ."
+nokia n8,iphone 4,screen,ASPECT,"the nokia n8 has a much better camera , the samsung galaxy s has a richer screen of a similar size and the iphone 4 has a way better app support ."
+nokia n8,samsung galaxy s,better,PREDICATE-DEPENDENT,"the nokia n8 has a much better camera , the samsung galaxy s has a richer screen of a similar size and the iphone 4 has a way better app support ."
+nokia n8,samsung galaxy s,app support,ASPECT,"the nokia n8 has a much better camera , the samsung galaxy s has a richer screen of a similar size and the iphone 4 has a way better app support ."
+samsung,nokia,software,ASPECT,i think its better to go for nokia express music stuff ........ the software in this mobile is slower comparing to nokia ..... and nokia is easier to use ...... it easily gets infected with virus and the net speed is not fast ..... and ofcourse nokia is way more reliable than samsung ..... go for nokia ..... this phone suxxxxxxxxxxxxxxxxxxxxxx !
+samsung,nokia,slower,PREDICATE-DEPENDENT,i think its better to go for nokia express music stuff ........ the software in this mobile is slower comparing to nokia ..... and nokia is easier to use ...... it easily gets infected with virus and the net speed is not fast ..... and ofcourse nokia is way more reliable than samsung ..... go for nokia ..... this phone suxxxxxxxxxxxxxxxxxxxxxx !
+nokia,samsung,better,PREDICATE-DEPENDENT,... nokia will do a far better wp8 than samsung ....
+nokia,samsung,wp8,ASPECT,... nokia will do a far better wp8 than samsung ....
+nokia,samsung,best,PREDICATE-DEPENDENT,nokia makes the best hardware ( in all wp8 phone ) much better than samsung .
+nokia,samsung,hardware,ASPECT,nokia makes the best hardware ( in all wp8 phone ) much better than samsung .
+nokia,samsung,better,PREDICATE-DEPENDENT,nokia makes the best hardware ( in all wp8 phone ) much better than samsung .
+samsung,nokia,updating their wp8 apps,ASPECT,"samsung is constantly updating their wp8 apps , more than nokia does ."
+samsung,nokia,more,PREDICATE-DEPENDENT,"samsung is constantly updating their wp8 apps , more than nokia does ."
+nokia asha,samsung rex,better,PREDICATE-DEPENDENT,"smartphone wars : nokia asha vs samsug rex don ' t be surprised , for the nokia asha series smartphones offer better gaming , music , internet and social experience than phones that come under the samsung rex brand ."
+nokia asha,samsung rex,gaming,ASPECT,"smartphone wars : nokia asha vs samsug rex don ' t be surprised , for the nokia asha series smartphones offer better gaming , music , internet and social experience than phones that come under the samsung rex brand ."
+nokia asha,samsung rex,music,ASPECT,"smartphone wars : nokia asha vs samsug rex don ' t be surprised , for the nokia asha series smartphones offer better gaming , music , internet and social experience than phones that come under the samsung rex brand ."
+nokia asha,samsung rex,internet,ASPECT,"smartphone wars : nokia asha vs samsug rex don ' t be surprised , for the nokia asha series smartphones offer better gaming , music , internet and social experience than phones that come under the samsung rex brand ."
+nokia asha,samsung rex,social experience,ASPECT,"smartphone wars : nokia asha vs samsug rex don ' t be surprised , for the nokia asha series smartphones offer better gaming , music , internet and social experience than phones that come under the samsung rex brand ."
+lg,samsung,strategy,ASPECT,"yes , i agree with you robert , that nokia has been weak at communicating its strategy - but its strategy nonetheless , is far better in smartphones than those of motorola , sonyericsson , samsung , lg or any other legacy dumbphone makers ."
+nokia,lg,better,PREDICATE-DEPENDENT,"yes , i agree with you robert , that nokia has been weak at communicating its strategy - but its strategy nonetheless , is far better in smartphones than those of motorola , sonyericsson , samsung , lg or any other legacy dumbphone makers ."
+nokia n97,samsung omnia,score,ASPECT,"off , the prototype n8 posted a score 54 - percent higher than the samsung omnia hd and 180 - percent greater than the nokia n97 ."
+nokia n97,nokia n97,higher,PREDICATE-DEPENDENT,"off , the prototype n8 posted a score 54 - percent higher than the samsung omnia hd and 180 - percent greater than the nokia n97 ."
+prototype n8,prototype n8,greater,PREDICATE-DEPENDENT,"off , the prototype n8 posted a score 54 - percent higher than the samsung omnia hd and 180 - percent greater than the nokia n97 ."
+nokia lumia 928,samsung galaxy s4,higher,PREDICATE-DEPENDENT,nokia lumia 928 has higher user rating than samsung galaxy s4 on verizon .
+nokia lumia 928,samsung galaxy s4,user rating,ASPECT,nokia lumia 928 has higher user rating than samsung galaxy s4 on verizon .
+nokia lumia 930,samsung galaxy s5,higher - resolution,PREDICATE-DEPENDENT,the nokia lumia 930 has a higher - resolution sensor than the samsung galaxy s5 .
+nokia lumia 930,samsung galaxy s5,sensor,ASPECT,the nokia lumia 930 has a higher - resolution sensor than the samsung galaxy s5 .
+samsung,nokia,higher,PREDICATE-DEPENDENT,"in other words , samsung was registering higher revenues in india than nokia by selling fewer phones ."
+samsung,nokia,revenues,ASPECT,"in other words , samsung was registering higher revenues in india than nokia by selling fewer phones ."
+samsung,lumia 1020,night mode,ASPECT,"comparing night mode on the galaxy s4 zoom versus the nokia lumia 1020 , i find that the lumia 1020 is able to take shots much quicker and that camera doesn ' t need to do the multiple exposure and stitching that ' s done on the samsung ."
+samsung e2252,nokia 112,size,ASPECT,size and shape : samsung e2252 is bigger is size but position and shape of keypad along with bigger screen is designed in a way that phone itself feels waf comfortable while holding and at the same time texting feels better than nokia 112 .
+samsung e2252,nokia 112,shape,ASPECT,size and shape : samsung e2252 is bigger is size but position and shape of keypad along with bigger screen is designed in a way that phone itself feels waf comfortable while holding and at the same time texting feels better than nokia 112 .
+samsung e2252,nokia 112,bigger,PREDICATE-DEPENDENT,size and shape : samsung e2252 is bigger is size but position and shape of keypad along with bigger screen is designed in a way that phone itself feels waf comfortable while holding and at the same time texting feels better than nokia 112 .
+samsung e2252,nokia 112,size,ASPECT,size and shape : samsung e2252 is bigger is size but position and shape of keypad along with bigger screen is designed in a way that phone itself feels waf comfortable while holding and at the same time texting feels better than nokia 112 .
+samsung e2252,nokia 112,bigger,PREDICATE-DEPENDENT,size and shape : samsung e2252 is bigger is size but position and shape of keypad along with bigger screen is designed in a way that phone itself feels waf comfortable while holding and at the same time texting feels better than nokia 112 .
+samsung e2252,nokia 112,screen,ASPECT,size and shape : samsung e2252 is bigger is size but position and shape of keypad along with bigger screen is designed in a way that phone itself feels waf comfortable while holding and at the same time texting feels better than nokia 112 .
+samsung,nokia,bigger,PREDICATE-DEPENDENT,samsung has a 0 . 5 inch bigger screen than nokia .
+samsung,nokia,screen,ASPECT,samsung has a 0 . 5 inch bigger screen than nokia .
+samsung,nokia,better,PREDICATE-DEPENDENT,"after the incident , i scaled down and bought a very basic tata samsung phone , which incidentally had better clarity and reception than my earlier nokia devie ."
+samsung,nokia,clarity,ASPECT,"after the incident , i scaled down and bought a very basic tata samsung phone , which incidentally had better clarity and reception than my earlier nokia devie ."
+samsung,nokia,reception,ASPECT,"after the incident , i scaled down and bought a very basic tata samsung phone , which incidentally had better clarity and reception than my earlier nokia devie ."
+nokia,samsung,quality,ASPECT,the quality from the nokia is definitely poorer than the samsung .
+nokia,samsung,poorer,PREDICATE-DEPENDENT,the quality from the nokia is definitely poorer than the samsung .
+samsung,nokia,better,PREDICATE-DEPENDENT,"th3 obs3rv3r , 14 feb 2013 samsung phones hav better camera and music quality than nokia ."
+samsung,nokia,camera,ASPECT,"th3 obs3rv3r , 14 feb 2013 samsung phones hav better camera and music quality than nokia ."
+samsung,nokia,music quality,ASPECT,"th3 obs3rv3r , 14 feb 2013 samsung phones hav better camera and music quality than nokia ."
+samsung,microsoft - nokia combine,better,PREDICATE-DEPENDENT,i have now shifted onto samsung as they are providing better quality than microsoft - nokia combine .
+samsung,microsoft - nokia combine,quality,ASPECT,i have now shifted onto samsung as they are providing better quality than microsoft - nokia combine .
+samsung,sony,lowest,PREDICATE-DEPENDENT,"nokia are really the lowest quality among the established brands , ans statistics from my carrier show that their service is slower than sony and samsung , where sony managed to return 93 % of phones within 6 days nokia barely made it to 60 %."
+samsung,sony,quality,ASPECT,"nokia are really the lowest quality among the established brands , ans statistics from my carrier show that their service is slower than sony and samsung , where sony managed to return 93 % of phones within 6 days nokia barely made it to 60 %."
+nokia,nokia,service,ASPECT,"nokia are really the lowest quality among the established brands , ans statistics from my carrier show that their service is slower than sony and samsung , where sony managed to return 93 % of phones within 6 days nokia barely made it to 60 %."
+nokia,nokia,slower,PREDICATE-DEPENDENT,"nokia are really the lowest quality among the established brands , ans statistics from my carrier show that their service is slower than sony and samsung , where sony managed to return 93 % of phones within 6 days nokia barely made it to 60 %."
+samsung,nokia,quality of the player,ASPECT,"in fact , when playing around with the music player it is obvious that samsung also make dedicated mp3 players , and overall the quality of the player seems to be much better than on a similar nokia phone ."
+samsung,nokia,better,PREDICATE-DEPENDENT,"in fact , when playing around with the music player it is obvious that samsung also make dedicated mp3 players , and overall the quality of the player seems to be much better than on a similar nokia phone ."
+nokia,samsung,price,ASPECT,wait for nokia moves /// slow but surely general price of nokia phones are cheaper than samsung .
+nokia,moto x,cheaper,PREDICATE-DEPENDENT,the moto x and nexus 5 have somewhat cheaper camera hardware ( just like samsung has cheaper camera hardware than nokia ).
+moto x,moto x,camera hardware,ASPECT,the moto x and nexus 5 have somewhat cheaper camera hardware ( just like samsung has cheaper camera hardware than nokia ).
+moto x,nexus 5,cheaper,PREDICATE-DEPENDENT,the moto x and nexus 5 have somewhat cheaper camera hardware ( just like samsung has cheaper camera hardware than nokia ).
+moto x,nexus 5,camera hardware,ASPECT,the moto x and nexus 5 have somewhat cheaper camera hardware ( just like samsung has cheaper camera hardware than nokia ).
+samsung renown,samsung renown,better,PREDICATE-DEPENDENT,"that or the samsung renown , or the casio exilim , all recent - enough phones , with better cameras than the lg8600 , the nokia is especially nice and thin , and none of them require the data package ."
+samsung renown,samsung renown,cameras,ASPECT,"that or the samsung renown , or the casio exilim , all recent - enough phones , with better cameras than the lg8600 , the nokia is especially nice and thin , and none of them require the data package ."
+samsung s8500,samsung s8500,worse,PREDICATE-DEPENDENT,"for example he was acclaiming , that nokia n8 has a worse camera , than se satio or samsung s8500 ."
+samsung s8500,samsung s8500,camera,ASPECT,"for example he was acclaiming , that nokia n8 has a worse camera , than se satio or samsung s8500 ."
+sony u,samsung,dslr cameras,ASPECT,"klaudio , 05 oct 2012 samsung has dslr cameras , of course they are better than nokia 808 and both samsung and sony u .."
+samsung,sony u,better,PREDICATE-DEPENDENT,"klaudio , 05 oct 2012 samsung has dslr cameras , of course they are better than nokia 808 and both samsung and sony u .."
+samsung,nokia,better,PREDICATE-DEPENDENT,samsung made better s60 phones than nokia back when they still bothered .
+samsung,nokia,phones,ASPECT,samsung made better s60 phones than nokia back when they still bothered .
+seagate,samsung,drives,ASPECT,"1tb of mechanical storage isn ' t bad , but toshiba hard drives really aren ' t what we want to be seeing as they tend to be a bit slower than competing drives from hgst , western digital , samsung , and seagate ."
+toshiba,seagate,slower,PREDICATE-DEPENDENT,"1tb of mechanical storage isn ' t bad , but toshiba hard drives really aren ' t what we want to be seeing as they tend to be a bit slower than competing drives from hgst , western digital , samsung , and seagate ."
+samsung,toshiba,build quality,ASPECT,the build quality of the samsung does not rival the cheaper of the two toshiba units .
+samsung,toshiba,does not rival,PREDICATE-DEPENDENT,the build quality of the samsung does not rival the cheaper of the two toshiba units .
+samsung ssds,toshiba ssds,read and write speeds,ASPECT,samsung ssds read and write speeds are significantly faster than the toshiba ssds .
+samsung ssds,toshiba ssds,faster,PREDICATE-DEPENDENT,samsung ssds read and write speeds are significantly faster than the toshiba ssds .
+samsung ssds,toshiba ssds,faster,PREDICATE-DEPENDENT,"notably , the samsung ssds registered significantly faster read and write speeds than the toshiba ssds ."
+samsung ssds,toshiba ssds,read and write speeds,ASPECT,"notably , the samsung ssds registered significantly faster read and write speeds than the toshiba ssds ."
+toshiba,samsung,ssd,ASPECT,"the toshiba bits that are inside my air , from october , are actually slower than those in the latest batch , which house an ssd blade from samsung ."
+toshiba - based ssd,samsung,slower,PREDICATE-DEPENDENT,"that ' s a bit reminiscent of a similar issue with the 2011 machines , if you got the toshiba - based ssd , you got slower performance than the samsung ."
+toshiba - based ssd,samsung,performance,ASPECT,"that ' s a bit reminiscent of a similar issue with the 2011 machines , if you got the toshiba - based ssd , you got slower performance than the samsung ."
+toshiba,samsung,bigger,PREDICATE-DEPENDENT,"while toshiba invented the chips more than a decade ago , samsung has seized the lead with bigger production volumes and lower prices ."
+toshiba,samsung,production volumes,ASPECT,"while toshiba invented the chips more than a decade ago , samsung has seized the lead with bigger production volumes and lower prices ."
+toshiba,samsung,lower,PREDICATE-DEPENDENT,"while toshiba invented the chips more than a decade ago , samsung has seized the lead with bigger production volumes and lower prices ."
+toshiba,samsung,prices,ASPECT,"while toshiba invented the chips more than a decade ago , samsung has seized the lead with bigger production volumes and lower prices ."
+sandisk cards,sandisk cards,higher,PREDICATE-DEPENDENT,this means that samsung microsd cards should naturally carry a slightly higher price than toshiba / sandisk cards .
+sandisk cards,sandisk cards,price,ASPECT,this means that samsung microsd cards should naturally carry a slightly higher price than toshiba / sandisk cards .
+samsung,dell,higher,PREDICATE-DEPENDENT,"great linux support in general , higher returns than toshiba / asus but by far lower than hp / acer / dell / samsung ."
+samsung,dell,returns,ASPECT,"great linux support in general , higher returns than toshiba / asus but by far lower than hp / acer / dell / samsung ."
+samsung,dell,lower,PREDICATE-DEPENDENT,"great linux support in general , higher returns than toshiba / asus but by far lower than hp / acer / dell / samsung ."
+toshiba,seagate,higher,PREDICATE-DEPENDENT,"toshiba and seagate share the second spot , and samsung falls behind because of its higher power consumption at peak streaming reads ."
+toshiba,seagate,power consumption,ASPECT,"toshiba and seagate share the second spot , and samsung falls behind because of its higher power consumption at peak streaming reads ."
+samsung slate,toshiba slate,performance,ASPECT,"however , it could not match up to the stellar performance of the samsung galaxy tab 7 . 7 simply because the samsung slate has a higher capacity 5100mah battery , which actually weighed less than the toshiba slate ."
+samsung slate,toshiba slate,higher capacity,PREDICATE-DEPENDENT,"however , it could not match up to the stellar performance of the samsung galaxy tab 7 . 7 simply because the samsung slate has a higher capacity 5100mah battery , which actually weighed less than the toshiba slate ."
+samsung slate,toshiba slate,battery,ASPECT,"however , it could not match up to the stellar performance of the samsung galaxy tab 7 . 7 simply because the samsung slate has a higher capacity 5100mah battery , which actually weighed less than the toshiba slate ."
+samsung slate,toshiba slate,weighed less,PREDICATE-DEPENDENT,"however , it could not match up to the stellar performance of the samsung galaxy tab 7 . 7 simply because the samsung slate has a higher capacity 5100mah battery , which actually weighed less than the toshiba slate ."
+toshiba,samsung,higher,PREDICATE-DEPENDENT,"ok found that toshiba , i would say go for that over the samsung one , it ' s only £ 50 more and has a much higher and more common resolution ."
+toshiba,samsung,more common,PREDICATE-DEPENDENT,"ok found that toshiba , i would say go for that over the samsung one , it ' s only £ 50 more and has a much higher and more common resolution ."
+toshiba,samsung,resolution,ASPECT,"ok found that toshiba , i would say go for that over the samsung one , it ' s only £ 50 more and has a much higher and more common resolution ."
+toshiba,samsung,picture,ASPECT,we were interested in toshiba after we saw that toshiba was better than samsung because it had clear picture and extreme sound .
+toshiba,samsung,sound,ASPECT,we were interested in toshiba after we saw that toshiba was better than samsung because it had clear picture and extreme sound .
+toshiba,samsung,picture,ASPECT,i have seen it from my own eyes the picture on the toshiba is way better than the samsung !
+toshiba,samsung,better,PREDICATE-DEPENDENT,i have seen it from my own eyes the picture on the toshiba is way better than the samsung !
+mitsubishi,samsung,better,PREDICATE-DEPENDENT,toshiba and jvc have gotten consistently better scores in testing in various home theater magazines than samsung ( a very digital picture ) or mitsubishi ( more noise than some others ).
+mitsubishi,samsung,scores,ASPECT,toshiba and jvc have gotten consistently better scores in testing in various home theater magazines than samsung ( a very digital picture ) or mitsubishi ( more noise than some others ).
+jvc,toshiba,picture,ASPECT,toshiba and jvc have gotten consistently better scores in testing in various home theater magazines than samsung ( a very digital picture ) or mitsubishi ( more noise than some others ).
+jvc,toshiba,noise,ASPECT,toshiba and jvc have gotten consistently better scores in testing in various home theater magazines than samsung ( a very digital picture ) or mitsubishi ( more noise than some others ).
+toshiba 37 1080p,samsung,more than twice,PREDICATE-DEPENDENT,"i ' ve got a toshiba 37 1080p in the front room which was more than twice the price and the picture is better on the samsung , sound is also better , really slim design ."
+toshiba 37 1080p,samsung,price,ASPECT,"i ' ve got a toshiba 37 1080p in the front room which was more than twice the price and the picture is better on the samsung , sound is also better , really slim design ."
+toshiba 37 1080p,samsung,picture,ASPECT,"i ' ve got a toshiba 37 1080p in the front room which was more than twice the price and the picture is better on the samsung , sound is also better , really slim design ."
+toshiba 37 1080p,samsung,better,PREDICATE-DEPENDENT,"i ' ve got a toshiba 37 1080p in the front room which was more than twice the price and the picture is better on the samsung , sound is also better , really slim design ."
+toshiba 37 1080p,samsung,sound,ASPECT,"i ' ve got a toshiba 37 1080p in the front room which was more than twice the price and the picture is better on the samsung , sound is also better , really slim design ."
+toshiba 37 1080p,samsung,better,PREDICATE-DEPENDENT,"i ' ve got a toshiba 37 1080p in the front room which was more than twice the price and the picture is better on the samsung , sound is also better , really slim design ."
+toshiba 37 1080p,samsung,design,ASPECT,"i ' ve got a toshiba 37 1080p in the front room which was more than twice the price and the picture is better on the samsung , sound is also better , really slim design ."
+toshiba,samsung,sharper,PREDICATE-DEPENDENT,i think the toshiba still presents a slightly sharper picture overall when compared to the samsung .
+toshiba,samsung,picture,ASPECT,i think the toshiba still presents a slightly sharper picture overall when compared to the samsung .
+samsung 3d led tv,toshiba 25 clunker,worse,PREDICATE-DEPENDENT,my $ 2000 samsung 3d led tv has worse sound than my 30 - year old toshiba 25 clunker because the speakers face the brick wall behind it .
+samsung 3d led tv,toshiba 25 clunker,sound,ASPECT,my $ 2000 samsung 3d led tv has worse sound than my 30 - year old toshiba 25 clunker because the speakers face the brick wall behind it .
+toshiba,samsung,sound,ASPECT,"the toshiba sound is much crisper than the rather touching bakelite fuzz of the samsung , too ."
+toshiba,samsung,crisper,PREDICATE-DEPENDENT,"the toshiba sound is much crisper than the rather touching bakelite fuzz of the samsung , too ."
+ios,android,worse multitasking,PREDICATE-FULL,merely saying i think ios has worse multitasking than android is less interesting than a compare / contrast with earlier useful solutions / ios / android .
+android,android,developing a way faster,PREDICATE-FULL,"plus , android is developing a way faster than ios so it has chances to become a laptop replacement earlier than ios ."
+android,ios,become a laptop replacement earlier,PREDICATE-FULL,"plus , android is developing a way faster than ios so it has chances to become a laptop replacement earlier than ios ."
+android,ios apple,better,PREDICATE-FULL,went to android earlier this year after being convinced its better then ios apple .
+ios,android,supported ibeacons earlier,PREDICATE-FULL,"the version we showed here is ios only , because the ios code supported ibeacons earlier than android , but we are almost finished with an android one as well ."
+android,ios,better,PREDICATE-FULL,he ' ll quickly realize why android is a better os - and even simpler to use than ios for most daily tasks .
+android,ios,simpler to use,PREDICATE-FULL,he ' ll quickly realize why android is a better os - and even simpler to use than ios for most daily tasks .
+wp7,ios,simpler to use,PREDICATE-FULL,"and when it comes to a os being simple to use , bada is simpler to use than android ( and lots faster too ), but bada still has more functions than ios or wp7 ."
+bada,wp7,faster,PREDICATE-FULL,"and when it comes to a os being simple to use , bada is simpler to use than android ( and lots faster too ), but bada still has more functions than ios or wp7 ."
+bada,android,has more functions,PREDICATE-FULL,"and when it comes to a os being simple to use , bada is simpler to use than android ( and lots faster too ), but bada still has more functions than ios or wp7 ."
+ios,android,simpler to use,PREDICATE-FULL,that ' s why it ' s so ridiculous to say that ios is simpler to use than android .
+ios,android,simpler to use,PREDICATE-FULL,"in my view , ios is still simpler to use than android , and made even simpler in ios 7 ."
+android,ios,not inferior,PREDICATE-FULL,"as much as i hate to say it , android is not inferior to ios any longer , and they have reached parity ."
+ios,android,better,PREDICATE-FULL,"ios is still good , but no longer is better than android ."
+ios,android,inferior,PREDICATE-FULL,"this matters very little from a usage point - of - view , but technically this aspect of ios is inferior to android , and provides the illusion of longer battery life ."
+ios,android,smoother,PREDICATE-FULL,"ios is no longer smoother than android , at least in 4 . 3 jelly bean or 4 . 4 kit kat , especially on the moto x or the new moto droids ."
+android,ios,has been around longer,PREDICATE-FULL,too bad android has been around longer than ios .
+android,ios,smarter,PREDICATE-FULL,oh and by the way android is smarter than ios .
+android,ios,smarter,PREDICATE-FULL,android is a smarter mobile os choice than ios : 10 reasons why .
+android,ios,smarter,PREDICATE-FULL,try to search for tasker which is only one reason android is much smarter than ios and ios users .
+ios apps,android apps,easier to write,PREDICATE-FULL,"android has its advantages , but overall , it remains significantly easier to write good ios apps than good android apps ."
+android,ios,smoother,PREDICATE-FULL,"android itself is getting smoother and simpler , but still has a geekier feel than apple ' s ios operating system ."
+android,ios,simpler,PREDICATE-FULL,"android itself is getting smoother and simpler , but still has a geekier feel than apple ' s ios operating system ."
+android,ios,geekier feel,PREDICATE-FULL,"android itself is getting smoother and simpler , but still has a geekier feel than apple ' s ios operating system ."
+android,ios,better long - term outlook,PREDICATE-FULL,"software developers believe google ' s android platform has a better long - term outlook , better technological capabilities , and greater openness than apple ' s ios platform ."
+android,ios,better technological capabilities,PREDICATE-FULL,"software developers believe google ' s android platform has a better long - term outlook , better technological capabilities , and greater openness than apple ' s ios platform ."
+android,ios,greater openness,PREDICATE-FULL,"software developers believe google ' s android platform has a better long - term outlook , better technological capabilities , and greater openness than apple ' s ios platform ."
+android,ios,safer,PREDICATE-FULL,"to sum up , while the android platform is a somewhat safer choice than apple ' s ios in terms of security and privacy protection , none of the two aforementioned platforms is indeed secure ."
+android,android,faster,PREDICATE-FULL,"here on the af , android is faster than ios and on the apple forums , android is slower ."
+android,ios,slower,PREDICATE-FULL,"here on the af , android is faster than ios and on the apple forums , android is slower ."
+ios users,android,slower,PREDICATE-FULL,"ios users read slower than android , and for shorter periods of time ."
+android,ios,better,PREDICATE-FULL,android users were always saying how much better android was than ios .
+android keyboards,ios,superior,PREDICATE-FULL,"that ' s interesting , as i ' ve noticed many android users posting in this subforum comment that android keyboards , and in particular swiftkey , are superior to ios ."
+android,ios,better,PREDICATE-FULL,pro - android users argue that android is now better than ios for a myriad of reasons .
+android,ios,superior,PREDICATE-FULL,"android is superior to ios , imo , because it lets consumers be the boss , not steve jobs ."
+android apps,android apps,better,PREDICATE-FULL,"this means that ios apps are not only better than android apps today , they ' re getting better faster than android apps because apple is deploying and the installed base is rapidly upgrading to much more powerful apis on the devices in consumers ' hands ."
+ios apps,ios apps,getting better faster,PREDICATE-FULL,"this means that ios apps are not only better than android apps today , they ' re getting better faster than android apps because apple is deploying and the installed base is rapidly upgrading to much more powerful apis on the devices in consumers ' hands ."
+android,ios,superior,PREDICATE-FULL,"they were right , my stance has always been that android is superior to ios due to the choices given to consumers ."
+android,ios,simpler,PREDICATE-FULL,android is as simple or simpler than ios if you ' re using it superficially which most consumers are doing .
+android,ios,easier,PREDICATE-FULL,"i picked up android alot easier , faster than ios ."
+android,ios,faster,PREDICATE-FULL,"android seems faster and smoother than ios , but only on nexus smartphones ."
+android,ios,smoother,PREDICATE-FULL,"android seems faster and smoother than ios , but only on nexus smartphones ."
+android,ios,easier,PREDICATE-FULL,"simply put android is easier , better , innovative , developing than ios ."
+android,ios,better,PREDICATE-FULL,"simply put android is easier , better , innovative , developing than ios ."
+android,ios,evolving faster and nicer,PREDICATE-FULL,and android was designed to be adaptable and is evolving faster and nicer than ios .
+android,android,easier to implement,PREDICATE-FULL,standard android based platforms may be easier to implement than the blackberry and ios platforms .
+qt for ios,android,easier to implement,PREDICATE-FULL,"@ kadajawi : technically , qt for ios is not a problem and even easier to implement than for android ."
+ios apps,android,smoother,PREDICATE-FULL,i find ios apps are way smoother and work better than android .
+ios apps,android,work better,PREDICATE-FULL,i find ios apps are way smoother and work better than android .
+ios,android apps,easier to do,PREDICATE-FULL,"ios is much easier to do , and looks better , than android apps ."
+ios,android apps,looks better,PREDICATE-FULL,"ios is much easier to do , and looks better , than android apps ."
+ios,android,smoother,PREDICATE-FULL,ios can run a lot smoother and apps run faster on lesser hardware than a beefed up android device .
+ios,ios app store,better run,PREDICATE-FULL,"there are more apps on ios , and you might argue that the ios app store is better run and easier to use than the android marketplace ."
+ios,ios app store,easier to use,PREDICATE-FULL,"there are more apps on ios , and you might argue that the ios app store is better run and easier to use than the android marketplace ."
+ios,android,lighter,PREDICATE-FULL,"general observations : colors differ slightly between the devices , ios is lighter than android ."
+jailbreaking an ios device,rooting an android device,lighter modification,PREDICATE-FULL,"in my experience , jailbreaking an ios device is a much , much lighter modification than rooting an android device ."
+ios 7,android,lighter,PREDICATE-FULL,iphone dominates in benchmarks because a ) it is new b ) ios 7 is a much lighter platform than android .
+ios wallet,android version,lighter,PREDICATE-FULL,"the ios wallet is lighter than the android version in one way : tap - to - pay isn ' t included because it requires nfc support , which isn ' t available on ios devices ."
+apple,android,nicer,PREDICATE-FULL,i do agree with the few that think ios apps are nicer ... app store is bigger ... but i also agree android is catching up faster than apple imagined !
+apple,ios apps,bigger,PREDICATE-FULL,i do agree with the few that think ios apps are nicer ... app store is bigger ... but i also agree android is catching up faster than apple imagined !
+ios apps,app store,catching up faster,PREDICATE-FULL,i do agree with the few that think ios apps are nicer ... app store is bigger ... but i also agree android is catching up faster than apple imagined !
+android,appstore,better,PREDICATE-FULL,"yet if you say ios is better than android please , tell why , not just say ouuu the appstore is bigger or it ' s made out of glass and / or metal , or it ' s faster than android phones ."
+ios,android,bigger,PREDICATE-FULL,"yet if you say ios is better than android please , tell why , not just say ouuu the appstore is bigger or it ' s made out of glass and / or metal , or it ' s faster than android phones ."
+ios,android,faster,PREDICATE-FULL,"yet if you say ios is better than android please , tell why , not just say ouuu the appstore is bigger or it ' s made out of glass and / or metal , or it ' s faster than android phones ."
+ios,ios,looks better,PREDICATE-FULL,anyway ios looks better than android but android being open source is more versatile usuable and will be able to evolve into bigger and better things .
+ios,ios,more versatile,PREDICATE-FULL,anyway ios looks better than android but android being open source is more versatile usuable and will be able to evolve into bigger and better things .
+android,ios,bigger,PREDICATE-FULL,android is bigger than ios .
+ios,ios,better and smoother framework,PREDICATE-FULL,its because ios and windows 8 have a better and smoother framework than android .
+ios,android,smoother,PREDICATE-FULL,"6 ) ios is a much smoother os , and just works better , much better than the android os ."
+ios,android,works better,PREDICATE-FULL,"6 ) ios is a much smoother os , and just works better , much better than the android os ."
+ios 4,android,more mature,PREDICATE-FULL,"keep in mind that the ios 4 is more mature , solid , smoother and is easier to use than android ."
+ios 4,android,smoother,PREDICATE-FULL,"keep in mind that the ios 4 is more mature , solid , smoother and is easier to use than android ."
+ios 4,android,easier to use,PREDICATE-FULL,"keep in mind that the ios 4 is more mature , solid , smoother and is easier to use than android ."
+ios users,android users,richer,PREDICATE-FULL,"ios users are more female and richer than android users , especially when you consider tablets , the more likely buying device ."
+android,ios,richer user experience,PREDICATE-FULL,"speaking in london , sheryl sandberg said that android , google ' s mobile operating system , was allowing the company to provide a richer user experience than apple ' s rival ios ."
+ios user,android user,richer,PREDICATE-FULL,if you know the makeup of any of these major cities it is beyond doubt that the average ios user is richer than the average android user .
+ios,android,better user,PREDICATE-FULL,ios is has a better user experience than android and it is also much easier to develop for .
+ios,android,easier to develop for,PREDICATE-FULL,ios is has a better user experience than android and it is also much easier to develop for .
+ios,android,easier to develop for,PREDICATE-FULL,ios is far easier to develop for than android and we always do ios first .
+ios,ios,easier to develop for,PREDICATE-FULL,"the survey also found , perhaps unsurprisingly , that developers find both ios and blackberry easier to develop for than android ."
+android,ios,more secure,PREDICATE-FULL,""" android because it ' s more secure and easier to develop for than ios "" ."
+android,ios,easier to develop for,PREDICATE-FULL,""" android because it ' s more secure and easier to develop for than ios "" ."
+ios,android,easier to learn,PREDICATE-FULL,i think this makes ios devices easier to learn than android devices .
+android,android,easier to learn,PREDICATE-FULL,"android development is easier to learn than ios , however , once you learn ios , the end result of the apps is by far more impressive than android ."
+ios,android,easier to learn,PREDICATE-FULL,"for newbies , the ios experience is easier to learn than any of the various flavors of android os with mfr customizations ."
+ios,android,smoother,PREDICATE-FULL,there ' s a reason why ios often looks smoother than android even on inferior processing power and that ' s because iphones always have top of the line gpus .
+android,ios,inferior,PREDICATE-FULL,i can fix a typo ... but android still sucks and is inferior to ios and apple and iphones and you can ' t fix that .
+ios,android,in a better position,PREDICATE-FULL,time was people would argue ios was in a better position than android ( and laugh at people who predicted android would end up beating ios ) because there were more iphones being sold than android devices .
+ios,android,safer,PREDICATE-FULL,with added security in ios it really feels safer on apple devices than on android devices .
+ios,android,safer,PREDICATE-FULL,why ios is safer than android .
+ios,android,safer,PREDICATE-FULL,one reason that ios is safer than android is that bug fixes to the operating system are rolled out faster .
+ios apps,android apps,safer,PREDICATE-FULL,ios apps are generally safer than android apps .
+ios,android,safer,PREDICATE-FULL,why ios is safer than android the relative vulnerability of android vs . ios comes down to the level of control the vendors have over products and the marketplace for development and distribution of apps .
+ios,android,easier,PREDICATE-FULL,"for me personally , ios is still easier and faster ( and simpler ) to use for everyday living , which is probably why my iphone 5 gets more use than my note 2 but obviously , the customization and freedom is better on android ."
+ios,android,faster,PREDICATE-FULL,"for me personally , ios is still easier and faster ( and simpler ) to use for everyday living , which is probably why my iphone 5 gets more use than my note 2 but obviously , the customization and freedom is better on android ."
+ios,android,simpler,PREDICATE-FULL,"for me personally , ios is still easier and faster ( and simpler ) to use for everyday living , which is probably why my iphone 5 gets more use than my note 2 but obviously , the customization and freedom is better on android ."
+ios,android,simpler,PREDICATE-FULL,"for managing devices in the enterprise , however , ios has been far simpler with better capabilities than android by far ."
+ios,android,better capabilities,PREDICATE-FULL,"for managing devices in the enterprise , however , ios has been far simpler with better capabilities than android by far ."
+ios,android,better,PREDICATE-FULL,"of course , the reactions are priceless , with almost everyone saying ios is better and simpler than android after praising the android - equipped iphone ."
+ios,android,simpler,PREDICATE-FULL,"of course , the reactions are priceless , with almost everyone saying ios is better and simpler than android after praising the android - equipped iphone ."
+ios,android,simpler,PREDICATE-FULL,"for normal people like me ( no geeks wannabe ) ios is simpler , faster , leaner , stable and friendly than android os up to now ."
+ios,android,faster,PREDICATE-FULL,"for normal people like me ( no geeks wannabe ) ios is simpler , faster , leaner , stable and friendly than android os up to now ."
+ios,android,leaner,PREDICATE-FULL,"for normal people like me ( no geeks wannabe ) ios is simpler , faster , leaner , stable and friendly than android os up to now ."
+ios,android,simpler,PREDICATE-FULL,ios is a simpler os in comparison to android .
+python,ruby,easier to read,PREDICATE-FULL,"fuzzier regions like python is easier to read than ruby , stating ."
+ruby 2 . 1,python 2 . 7,slower,PREDICATE-FULL,"ruby 2 . 1 added a feature to use gmp for large multiplication , but it still seems slower than python 2 . 7 ."
+python,ruby,easier to read,PREDICATE-FULL,"i find the python version of that test easier to read , and i ' ve been using ruby almost 10 years longer than python ."
+python,python,easier to read,PREDICATE-FULL,i think that python is a lot easier to read than ruby or java .
+python,ruby,faster,PREDICATE-FULL,"python is usually fast enough for what you want it to do ( and faster than ruby ), while requires a third of the code of an equivalent java program and is much easier to read ."
+python,ruby,easier to read,PREDICATE-FULL,"python is usually fast enough for what you want it to do ( and faster than ruby ), while requires a third of the code of an equivalent java program and is much easier to read ."
+python,python,easier to read,PREDICATE-FULL,"my primary language , though , is likely to remain python , as i find it about 60 million times easier to read than perl , and 100 million times easier to read than ruby ."
+python,perl,easier to read,PREDICATE-FULL,"my primary language , though , is likely to remain python , as i find it about 60 million times easier to read than perl , and 100 million times easier to read than ruby ."
+python,ruby,faster,PREDICATE-FULL,"performance is the main downfall , with python being somewhat faster than ruby as i understand it ."
+java,c ++,slower,PREDICATE-FULL,"java has , in some cases , the performance of c ++ or at least half the performance of it , while ruby is ( afair ) 18 times slower than c . python is better , but is not in java territory ."
+java,c ++,better,PREDICATE-FULL,"java has , in some cases , the performance of c ++ or at least half the performance of it , while ruby is ( afair ) 18 times slower than c . python is better , but is not in java territory ."
+rails,rails,faster,PREDICATE-FULL,"it ' s much more widely known , and all the benchmarks i ' ve seen also show python as rather faster than ruby , and django as higher - performance than rails ."
+python,ruby,higher - performance,PREDICATE-FULL,"it ' s much more widely known , and all the benchmarks i ' ve seen also show python as rather faster than ruby , and django as higher - performance than rails ."
+python,ruby,better suited to high performance computing,PREDICATE-FULL,"arguably , the mature c integration tools available to python make it far better suited to high performance computing than ruby ."
+python code,ruby code,faster,PREDICATE-FULL,the python code appears to be 4 times faster than the ruby code : .
+python 2 . 5,ruby 1 . 8,slower,PREDICATE-FULL,all he ' s saying ( literally ) is that ruby 1 . 8 was in the range of 5 times slower than python 2 . 5 and ruby 1 . 9 is in the range of 3 times faster than python 2 . 5 when running this exact code .
+ruby 1 . 8,python 2 . 5,faster,PREDICATE-FULL,all he ' s saying ( literally ) is that ruby 1 . 8 was in the range of 5 times slower than python 2 . 5 and ruby 1 . 9 is in the range of 3 times faster than python 2 . 5 when running this exact code .
+python,ruby,slower,PREDICATE-FULL,"ruby is 1 . 7 times slower than perl , tcl is 3 . 3 times slower , and python is 8 . 2 times slower !"
+ruby,perl,slower,PREDICATE-FULL,"ruby is 1 . 7 times slower than perl , tcl is 3 . 3 times slower , and python is 8 . 2 times slower !"
+ruby,perl,slower,PREDICATE-FULL,"ruby is 1 . 7 times slower than perl , tcl is 3 . 3 times slower , and python is 8 . 2 times slower !"
+python,ruby,faster,PREDICATE-FULL,it ' s time to show secret python weapon - calculation of same fibonacci numbers but in 1000 times faster than antonio ' s ruby implementation .
+ruby,python,slower,PREDICATE-FULL,"the only drawback i would consider is that ruby is about 10x slower than python ( as far as i know ), due to the lack of a bytecode format ."
+php,perl,faster,PREDICATE-FULL,"no bearing on the original topic , and i may just be calling out a typo , but for the record the current python implementation is much faster than the implementations of ruby , perl , or php because it uses java - esque bytecode partial - compilation ."
+python,ruby,worse,PREDICATE-FULL,"van rossum : python not much worse than ruby python creator guido van rossum discusses the prospects and criticisms of python , noting that critics of python should supplement with ruby rather than re - engineering python apps into a better language ."
+python,ruby,easier language to learn,PREDICATE-FULL,i feel python to be an easier language to learn than ruby .
+ruby,ruby,slower,PREDICATE-FULL,"benchmarking languages is an inexact science , but ruby appears drastically slower than even javascript and python ."
+ruby,ruby,slower,PREDICATE-FULL,"ruby seem to be slower than python or perl , but faster than ."
+python ( 2 . 6 ),ruby ( 1 . 8 ),faster,PREDICATE-FULL,"for whatever it ' s worth , using your code above , python ( 2 . 6 ) is considerably faster than ruby ( 1 . 8 ) on my machine ... 11 . 7 seconds for python vs . 46 . 7 seconds for ruby ."
+python,ruby,better,PREDICATE-FULL,"python is better than ruby , i have no doubt in my mind , but if we let ruby become - faster - than python , people will gravitate away from python ."
+ruby,ruby,slower,PREDICATE-FULL,"- i hate ruby , because it ' s slow , even slower than java or python ."
+python,ruby,greater range of libraries,PREDICATE-FULL,"python has a much greater range of libraries available to it , and most of those libraries are more mature and better documented than their ruby counterparts ."
+python,ruby,greater usage,PREDICATE-FULL,"python , overall , has far greater usage than ruby ."
+ruby,python,greater syntactic flexibility,PREDICATE-FULL,"on the other hand , ruby also has much greater syntactic flexibility than python ."
+haskell,python,faster,PREDICATE-FULL,when i started learning haskell then some where it was given that because of type checking haskell is faster than python .
+perl,ruby,slower,PREDICATE-FULL,"when i last checked the benchmark game speed comparisons , javascript v8 was slower than most of the explicitly typed and type inference languages like haskell and ocaml , but much faster than other languages without explicit types like python , ruby and perl ."
+javascript v8,perl,faster,PREDICATE-FULL,"when i last checked the benchmark game speed comparisons , javascript v8 was slower than most of the explicitly typed and type inference languages like haskell and ocaml , but much faster than other languages without explicit types like python , ruby and perl ."
+php,java,faster,PREDICATE-FULL,"haskell is faster than c ++, more concise than perl , more regular than python , more flexible than ruby , more typeful than c #, more robust than java , and has absolutely nothing in common with php ."
+php,java,more concise,PREDICATE-FULL,"haskell is faster than c ++, more concise than perl , more regular than python , more flexible than ruby , more typeful than c #, more robust than java , and has absolutely nothing in common with php ."
+php,java,more regular,PREDICATE-FULL,"haskell is faster than c ++, more concise than perl , more regular than python , more flexible than ruby , more typeful than c #, more robust than java , and has absolutely nothing in common with php ."
+haskell,php,more flexible,PREDICATE-FULL,"haskell is faster than c ++, more concise than perl , more regular than python , more flexible than ruby , more typeful than c #, more robust than java , and has absolutely nothing in common with php ."
+haskell,"c ++,",more typeful,PREDICATE-FULL,"haskell is faster than c ++, more concise than perl , more regular than python , more flexible than ruby , more typeful than c #, more robust than java , and has absolutely nothing in common with php ."
+haskell,"c ++,",more robust,PREDICATE-FULL,"haskell is faster than c ++, more concise than perl , more regular than python , more flexible than ruby , more typeful than c #, more robust than java , and has absolutely nothing in common with php ."
+python version,haskell version,not easier to grok,PREDICATE-FULL,"update 2007 - 01 - 26 : of course , the python version is not easier to grok than this alternative haskell version : ."
+haskell code,python code,faster,PREDICATE-FULL,"also , haskell code runs a lot faster than python code ( real native - code compiler that can use multicore hardware ), and there is a clever automatic unit testing system ( quickcheck ) that relies on haskell ' s static type system to generate random tests automatically ."
+haskell version,python version,faster,PREDICATE-FULL,( the haskell version that uses a better algorithm can be a bit faster than the python version ).
+ruby,ruby,faster,PREDICATE-FULL,i ' ve no problem with recognizing that haskell is much faster than python and that python is faster than ruby in most scenarios .
+haskell,haskell,faster,PREDICATE-FULL,i ' ve no problem with recognizing that haskell is much faster than python and that python is faster than ruby in most scenarios .
+scheme,ocaml,faster,PREDICATE-FULL,"scheme , ocaml , haskell , and lisp are all an order of magnitude faster than python ."
+haskell,python,faster,PREDICATE-FULL,haskell compiled to native code is typically an order of magnitude faster than python .
+haskell,python version,faster,PREDICATE-FULL,"-- -- quick implementation by dmwit on # haskell -- faster , shorter , uses less memory than the python version ."
+haskell,python version,shorter,PREDICATE-FULL,"-- -- quick implementation by dmwit on # haskell -- faster , shorter , uses less memory than the python version ."
+haskell,python version,uses less memory,PREDICATE-FULL,"-- -- quick implementation by dmwit on # haskell -- faster , shorter , uses less memory than the python version ."
+python,it,not as declarative,PREDICATE-FULL,"it ' s not as declarative as say , haskell , but it ' s friendlier to a broader variety of programs while still having a more declarative feel than python ."
+it,python,friendlier,PREDICATE-FULL,"it ' s not as declarative as say , haskell , but it ' s friendlier to a broader variety of programs while still having a more declarative feel than python ."
+it,haskell,more declarative feel,PREDICATE-FULL,"it ' s not as declarative as say , haskell , but it ' s friendlier to a broader variety of programs while still having a more declarative feel than python ."
+python programs,haskell,easier to install,PREDICATE-FULL,it is also true that python programs are easier to install than haskell .
+haskell,python,slower,PREDICATE-FULL,hence the haskell is over an order of magnitude slower than most languages and even slower than python (!)
+haskell,python,slower,PREDICATE-FULL,hence the haskell is over an order of magnitude slower than most languages and even slower than python (!)
+perl,python,better suited for that domain,PREDICATE-FULL,"i don ' t see that there is anything intrinsic about perl or python , as programming languages , that makes them better suited for that domain than haskell ."
+bash,python,easier,PREDICATE-FULL,bash scripting is more easier then python :) .
+bash,python,easier to write a script,PREDICATE-FULL,bash : sometimes it ' s easier to write a script in bash rather than in python .
+pipe to awk or grep,python alternative,easier,PREDICATE-FULL,bash is great for interfacing with existing command - line tools ... frequently a single pipe to awk or grep is much easier than the python alternative .
+python,bash,easier to write complex scripts,PREDICATE-FULL,since python supports objects it ' s easier to write complex scripts than with bash .
+bash,python,greater power,PREDICATE-FULL,"i use the bourne shell for portability , bash for its greater power than sh ( arrays , etc .), ksh when bash is not available and python when i need speed and greater power than bash ."
+bash,bourne shell,greater power,PREDICATE-FULL,"i use the bourne shell for portability , bash for its greater power than sh ( arrays , etc .), ksh when bash is not available and python when i need speed and greater power than bash ."
+running bash scripts,running perl / python / whatever scripts,lighter,PREDICATE-FULL,running bash scripts is slightly lighter than running perl / python / whatever scripts on top of bash .
+python,bash,faster,PREDICATE-FULL,"python is faster than bash usually , so i think i ' ll just adjust it ."
+python,bash,faster,PREDICATE-FULL,python is about 80 % faster than bash because it is byte compiled while base is interperated .
+python,bash,faster,PREDICATE-FULL,a simple python script is likely to be faster than anything you can do in bash .
+portage,parsing bash,faster,PREDICATE-FULL,"python has good xml parsers , so portage could parse it on its own , probably faster than parsing bash strings ."
+python,perl,useful in more places,PREDICATE-FULL,"thats why voted python instead of perl or bash , a gentle introduction to scripting that is useful in more places than just shell or web , and is clear enough to grasp the base concepts ."
+python,bash,easier to program in,PREDICATE-FULL,"i find python easier to program in than bash , you don ' t have to deal with hordes of escaping scenarios , for one ."
+javascript,python,better,PREDICATE-FULL,javascript is better ( imo ) and faster than python .
+javascript,python,faster,PREDICATE-FULL,javascript is better ( imo ) and faster than python .
+javascript interpreters,implementations of python,faster,PREDICATE-FULL,most javascript interpreters are much faster than nearly all implementations of python .
+ruby,ruby,faster,PREDICATE-FULL,"though thanks to v8 , it executes javascript faster than php , python and ruby ."
+javascript,javascript,faster,PREDICATE-FULL,"otherwise javascript has become amazingly fast , i think v8 is faster then ruby and python ."
+javascript,python,faster,PREDICATE-FULL,one thing about javascript being faster than python : one needs to distinguish between a language and its implementation .
+javascript,python,faster,PREDICATE-FULL,"in practice , javascript tends to be a lot faster than python , not because of any feature of the languages themselves - they ' re broadly comparable in terms of expressiveness and capabilities - but because companies like microsoft , google , and mozilla have invested heavily in making javascript faster ."
+interpreted languages,perl,faster,PREDICATE-FULL,"also , google ' s open source v8 compiler is so freaking fast , javascript is now reliably faster than java , python , perl , and other interpreted languages ."
+javascript,javascript,easier language to learn,PREDICATE-FULL,"the use of javascript has lower the barrier for making contributions for gnome desktop , because javascript it ' s a well known language in the web development world an it ' s a easier language to learn than the typical c / c ++ and even python ."
+python,javascript,better,PREDICATE-FULL,"python isn ' t pascal but it ' s way better than all the toothless c wannabees that represent the sum total of recent language research , especially javascript , the woodrow wilson of programming languages ."
+javascript,python,faster,PREDICATE-FULL,"these apps perform surprisingly well , partly because the chrome javascript engine is very fast -- faster than python in some tests -- but also because the chrome apis are fairly thin layers over native os apis ."
+javascript,python,faster,PREDICATE-FULL,"picking a random benchmark shows v8 ( chrome ' s javascript engine , which is embedded in o3d ) to be 300x faster than python , and i know python is easily fast enough to make a decent game in ."
+using elem . get_attribute ( outerhtml ) in python,invoking javascript,easier,PREDICATE-FULL,the one by nilesh ( currently accepted ) might work but it is non - python and using elem . get_attribute ( outerhtml ) in python is much easier than unnecessarily invoking javascript .
+python code,javascript code,easier to understand,PREDICATE-FULL,"anecdotally , i ' d say that python code is ( on the surface ) easier to understand than javascript code , making it easier to vote up , although fiddles help your javascript answers because you can prove your code works ."
+"c #,",python,easier,PREDICATE-FULL,"+ oliver zeigermann - while i understand that javascript has many beautiful areas , i ' m myself not a javascript guru and programming in classic oop language with static types ( c #, java , scala ) is easier to me than javascript or ruby , python , etc ."
+"writing a moderately complex gui in python , java and flash",writing a gui in javascript,easier,PREDICATE-FULL,"just attempting to generalize our collective experience that writing a moderately complex gui in python , java and flash is so much easier than writing a gui in javascript ."
+jacl,jython,easier,PREDICATE-FULL,"if you are a proficient java programmer but are unfamiliar with python or tcl , you may find it easier to get going writing scripts with javascript or beanshell than you will with jython or jacl , since there is less new ground to cover ."
+python,javascript,simpler to learn,PREDICATE-FULL,because i found python to be alot more simpler to learn than javascript in many ways .
+python code,javascript,cleaner,PREDICATE-FULL,notice how much cleaner and simpler the python code is compared to the javascript version .
+python code,javascript,simpler,PREDICATE-FULL,notice how much cleaner and simpler the python code is compared to the javascript version .
+debugging javascript code,debugging your python code,not as easy as,PREDICATE-FULL,"in general , debugging javascript code is not as easy as debugging your python code although firebug has made the problem much simpler already ."
+javascript,python,more dynamic,PREDICATE-FULL,"javascript is even more dynamic than python in many ways , and it ' s seen drastic speedups with primitive first - generation jit compilers , all with no changes to the language ( especially since it ' s standardized .)"
+groovy,python,better experience,PREDICATE-FULL,"i dont know if you ever coded something in groovy , python or ruby , but i can assure you that its really a better experience than javascript ."
+javascript,javascript,faster execution,PREDICATE-FULL,"javascript / node . js - faster execution than perl , and much easier to write async code ."
+javascript,node . js,easier to write async code,PREDICATE-FULL,"javascript / node . js - faster execution than perl , and much easier to write async code ."
+perl,javascript,easier to write bad code,PREDICATE-FULL,"i ' d argue it ' s much easier to write bad code in perl than javascript , but at least it doesn ' t insert semicolons for you ."
+javascript,perl,easier to understand and debug,PREDICATE-FULL,"if you think the javascript was easy to follow , wait until you see the perl scripts that implement the web services ; they ' re even easier to understand and debug ."
+javascript,javascript,harder,PREDICATE-FULL,"i really don ' t like to say that perl is harder than say php or javascript , because i don ' t think its a complete apple to apple ' s comparison , although it is often cast that way ."
+javascript,java,have a greater impact on the use of cgi / perl,PREDICATE-FULL,javascript will likely have a greater impact on the use of cgi / perl than java .
+perl,perl,easier to develop,PREDICATE-FULL,"you need to look no further than the developer ' s wiki and search for perl : developer ' s guide afaik , anyways , it ' s easier to develop them using python and javascript ."
+kennedy,nixon,better on camera,PREDICATE-FULL,they say kennedy won because he was better on camera than nixon .
+john f . kennedy,richard nixon,more charismatic,PREDICATE-FULL,"many voters in 1960 chose the more charismatic john f . kennedy over richard nixon , a man who rarely looked comfortable on camera ."
+kennedy,nixon,looked better,PREDICATE-FULL,"schneider : judy , kennedy won because he looked better than nixon did on television ."
+kennedy,nixon,performs better on television,PREDICATE-FULL,"kennedy performs better on television than nixon , and it is believed that television helps kennedy win the election ."
+john f . kennedy,richard nixon,understood the power of television better,PREDICATE-FULL,john f . kennedy understood the power of television better than richard nixon during the race for the presidency in 1960 .
+kennedy,nixon,better on television,PREDICATE-FULL,"kennedy came across much better on television than the ill , pale , sweating nixon and won the debate and ultimately the presidency ."
+kennedy,richard nixon,looked better on black and white television,PREDICATE-FULL,the nation tuned in for that first debate where senator kennedy famously looked better on black and white television than richard nixon .
+kennedy,nixon,greater statesman,PREDICATE-FULL,i am voting for senator kennedy because i think he ' s a much greater statesman than vice president nixon .
+kennedy,nixon,better expressed the views of the american public,PREDICATE-FULL,[ 35 ] frank mullin said kennedy better expressed the views of the american public than vice president nixon .
+kennedy,richard nixon,have done better,PREDICATE-FULL,"second , the televised debates as the campaign ' s defining events : many journalists and voters judged kennedy to have done better than his republican rival , vice president richard nixon ."
+nixon,older,younger,PREDICATE-FULL,"the same thing happened many years ago with a younger , more sophisticated , but unknown member of the kennedy clan who looked better in a televised debate than a tired , older , heavily perspiring vice - president named nixon ."
+nixon,older,more sophisticated,PREDICATE-FULL,"the same thing happened many years ago with a younger , more sophisticated , but unknown member of the kennedy clan who looked better in a televised debate than a tired , older , heavily perspiring vice - president named nixon ."
+kennedy,kennedy,looked better in a televised debate,PREDICATE-FULL,"the same thing happened many years ago with a younger , more sophisticated , but unknown member of the kennedy clan who looked better in a televised debate than a tired , older , heavily perspiring vice - president named nixon ."
+john f . kennedy,richard m . nixon,better coverage from the media,PREDICATE-FULL,"during the 1960 presidential campaign , john f . kennedy got better coverage from the media than did his opponent richard m . nixon ."
+kennedy,nixon,better looking,PREDICATE-FULL,i was five years old in 1960 and i wanted kennedy to win the presidential election because he was much better looking than nixon .
+jack kennedy,richard fucking nixon,better man,PREDICATE-FULL,"what mattered on election day for jack kennedy was that he was a much better man and would make a far better president than richard fucking nixon , as later events proved ."
+jack kennedy,richard fucking nixon,better president,PREDICATE-FULL,"what mattered on election day for jack kennedy was that he was a much better man and would make a far better president than richard fucking nixon , as later events proved ."
+kennedy,nixon,cooler,PREDICATE-FULL,"kennedy , however , did wear the make - up and so appeared cooler and more composed than nixon ."
+kennedy,nixon,more composed,PREDICATE-FULL,"kennedy , however , did wear the make - up and so appeared cooler and more composed than nixon ."
+kennedy,nixon,cooler,PREDICATE-FULL,"kennedy was cooler than nixon - actually , nixon in 1968 and 1972 is the exception to this rule , and you know how that turned out ."
+kennedy,richard nixon,easier to look at,PREDICATE-FULL,many have suggested that kennedy ultimately won the 1960 election because he was just easier to look at than richard nixon .
+kennedy,richard nixon,better,PREDICATE-FULL,"just for the record , i voted for kennedy in the 1968 california democratic primary so i would agree that , by that time , he was better then his opponent , gene mccarthy and certainly far superior to the mentally unstable richard nixon ."
+kennedy,kennedy,superior,PREDICATE-FULL,"just for the record , i voted for kennedy in the 1968 california democratic primary so i would agree that , by that time , he was better then his opponent , gene mccarthy and certainly far superior to the mentally unstable richard nixon ."
+jack kennedy,jack kennedy,not a worse person,PREDICATE-FULL,"if jack kennedy was not a worse person than lyndon johnson or richard nixon , he wasn ' t a better man either ."
+jack kennedy,jack kennedy,wasn ' t a better man,PREDICATE-FULL,"if jack kennedy was not a worse person than lyndon johnson or richard nixon , he wasn ' t a better man either ."
+kennedy,nixon,looked better,PREDICATE-FULL,"but those who watched on tv thought that kennedy had won , many said because kennedy simply looked better than nixon , who had been sick in previous days ."
+nixon,kennedy,higher esteem,PREDICATE-FULL,"these days , nixon is held in higher esteem than kennedy only because his misbehavior wasn ' t sexual ."
+john f . kennedy,nixon,better hair,PREDICATE-FULL,"in first grade , he supported john f . kennedy , because he was catholic , like stone , and he had better hair than nixon ."
+nixon,kennedy,greater decision - making experience,PREDICATE-FULL,"[ 18 ] although both eisenhower and nixon later claimed that he was merely joking with the reporter , the remark hurt nixon , as it undercut his claims of having greater decision - making experience than kennedy ."
+nixon,nixon,more real experience,PREDICATE-FULL,""" "" mr . nixon and mr . lodge have more real experience than mr . kennedy and mr . johnson ."
+nixon,kennedy,better for civil rights,PREDICATE-FULL,"robinson , it turns out , actually campaigned for nixon in 1960 , in the belief that he would be better for civil rights than kennedy - but not , apparently , better than hubert humphrey , who did not receive the democratic nomination ."
+nixon,kennedy,better,PREDICATE-FULL,"robinson , it turns out , actually campaigned for nixon in 1960 , in the belief that he would be better for civil rights than kennedy - but not , apparently , better than hubert humphrey , who did not receive the democratic nomination ."
+nixon,kennedy,hubert humphrey,PREDICATE-FULL,"robinson , it turns out , actually campaigned for nixon in 1960 , in the belief that he would be better for civil rights than kennedy - but not , apparently , better than hubert humphrey , who did not receive the democratic nomination ."
+nixon,kennedy,smarter,PREDICATE-FULL,nixon was thought to be smarter than kennedy .
+humphrey,humphrey,smarter,PREDICATE-FULL,"or perhaps the example of richard nixon , tricky dick who was considered smarter than kennedy and humphrey ."
+nixon press operation,kennedy operation,smoother,PREDICATE-FULL,"and all of this , despite the fact that the nixon press operation was far smoother than the kennedy operation ."
+kennedy,nixon,taking a harder line on cuba,PREDICATE-FULL,"but kennedy was taking a harder line on cuba than nixon , because kennedy was not aware of the corporate / cia planned invasion ."
+richard nixon,john kennedy,more popular votes,PREDICATE-FULL,"in an attempt to make the electoral college seem even worse than it is , edwards claims that richard nixon received more popular votes in 1960 than john kennedy did ."
+mouse,rat,decompose quicker,PREDICATE-FULL,hopefully a mouse will decompose quicker than a full sized rat !!
+mouse blood,rat blood,turned over slightly faster,PREDICATE-FULL,"we have found that blood carbon and nitrogen turnover was roughly equivalent in mice and in rats , and that mouse blood turned over slightly faster than rat blood ."
+mouse,mouse,metabolizes bd to the monoepoxide and the diepoxide in these organs at a faster rate,PREDICATE-FULL,"based on the studies reviewed by osha , overall the mouse metabolizes bd to the monoepoxide and the diepoxide in these organs at a faster rate than do the rat and human ."
+rat feeders,mouse feeders,grow two to three times faster,PREDICATE-FULL,i never feed snakes mice unless it is absolutely necessary since my rat feeders grow two to three times faster than mouse feeders .
+she,mouse,easier to pick up,PREDICATE-FULL,"this isn ' t intentional , it ' s just she ' s always first to the door and is a lot easier to pick up than mouse , who wriggles and scratches until she ' s on solid ground again ."
+mouse,rat,easier to trap,PREDICATE-FULL,"a mouse can be a little easier to trap than a rat , but using these principles , it doesn ' t matter ."
+mouse tissue,rat tissue,easier to process and microdissect,PREDICATE-FULL,"9 in addition , we have found that mouse tissue is much easier to process and microdissect than the equivalent rat tissue ( unpublished observation )."
+mice,rat,used more widely in research,PREDICATE-FULL,although mice tend to be used more widely in research -- largely because manipulating the genes of a mouse has been easier than those of the rat -- rats are in many cases still the research model of choice .
+rat cyp2e1,rat cyp2e1,greater affinity and catalytic efficiency for dce metabolism,PREDICATE-FULL,"recombinant rat cyp2e1 exhibited greater affinity and catalytic efficiency for dce metabolism than did recombinant human cyp2e1 , mouse cyp2f2 , goat cyp2f3 or rat cyp2f4 ."
+responsive neurons in rat,those from mouse,greater response amplitudes,PREDICATE-FULL,"fewer total small - diameter neurons from rat responded to cinn , but the responsive neurons in rat had greater response amplitudes than those from mouse ( figs . 5a , b )."
+rat myocytes,mouse myocytes,greater viability in a cell culture system,PREDICATE-FULL,rat myocytes were chosen for these experiments as they showed greater viability in a cell culture system than isolated mouse myocytes .
+rat brain distribution of ox26,distribution of the control mouse immunoglobulin g2a,greater,PREDICATE-FULL,"in another study , the rat brain distribution of ox26 , a murine monoclonal antibody against rat tfr , was 18 times greater than the distribution of the control mouse immunoglobulin g2a [ 55 ]."
+mice,rats,smaller,PREDICATE-FULL,"mice are smaller and easier to work with than rats , so i ' d definitely recommend trying this with a mouse first ."
+mice,rats,easier to work with,PREDICATE-FULL,"mice are smaller and easier to work with than rats , so i ' d definitely recommend trying this with a mouse first ."
+mouse,rats,bigger,PREDICATE-FULL,"because the rat is bigger , it is easier to study diseases in rats than in the mouse ."
+rat,rat,easier to study diseases,PREDICATE-FULL,"because the rat is bigger , it is easier to study diseases in rats than in the mouse ."
+rat and human atii cells,mouse atii cells,easier to isolate and culture,PREDICATE-FULL,most studies have used rat and human atii cells because they are easier to isolate and culture than mouse atii cells .
+rat aortas,mouse aortas,easier,PREDICATE-FULL,"it all starts from correctly dissecting out the aorta from the animal initially , but i would guess that rat aortas would be easier than a mouse and we routinely perform this on mouse aortas ."
+rat model of lou gehrig ' s disease,mouse models,easier to work with,PREDICATE-FULL,a team of scientists led by drug maker wyeth - ayerst and johns hopkins have engineered and tested a new rat model of lou gehrig ' s disease they say is far easier to work with than earlier mouse models .
+rat,mouse,bigger,PREDICATE-FULL,naturally the rat came since a rat is bigger than a mouse .
+rat,mouse,bigger,PREDICATE-FULL,"today , i was taught a rat is bigger than a mouse ."
+rat,it,bigger,PREDICATE-FULL,"it was bigger than a mouse , but smaller than a rat ."
+it,it,smaller,PREDICATE-FULL,"it was bigger than a mouse , but smaller than a rat ."
+mouse,mouse,smaller,PREDICATE-FULL,a gerbil is smaller than a rat but bigger than a mouse .
+gerbil,gerbil,bigger,PREDICATE-FULL,a gerbil is smaller than a rat but bigger than a mouse .
+rat model,mouse model,better anatomical differentiation,PREDICATE-FULL,mesothelioma rat model was then selected because rat model provided better anatomical differentiation than mouse model in imaging studies .
+rat,mouse,better animal model,PREDICATE-FULL,description ( provided by applicant ): in many aspects the rat is a better animal model than the mouse for functional genomic studies .
+rat,mouse,better adapted,PREDICATE-FULL,"a small rat is probably better adapted than a slightly larger mouse ,'' mr . hone said . ''"
+rat faeces,mouse faeces,larger body size,PREDICATE-FULL,"due to their larger body size , rat faeces are larger than mouse faeces ."
+rat faeces,mouse faeces,larger,PREDICATE-FULL,"due to their larger body size , rat faeces are larger than mouse faeces ."
+mouse,rat,larger v1r repertoire,PREDICATE-FULL,the mouse has a larger v1r repertoire than the rat ( fig . 5 ).
+audi q5 hybrid,lexus gx 460,less horsepower,PREDICATE-FULL,"when it comes to horsepower , the audi q5 hybrid has a lot less horsepower than the lexus gx 460 ."
+audi q5,lexus gx 460,less horsepower,PREDICATE-FULL,the audi q5 has a little less horsepower than the lexus gx 460 .
+this car,lexus is200 sport,quicker,PREDICATE-FULL,"this car is surprisingly quick - beats the equivalent bmw , audi , quicker than a lexus is200 sport ."
+benz,lexus,quicker,PREDICATE-FULL,"the summer - shoes benz gave a first - rate account of itself as it slipped through the lane - change test at 57 . 4 mph , 1 . 7 quicker than the next - best audi , and 4 . 3 better than the slow - guy lexus ."
+lexus is250 awd,audi,best - in - class fuel economy,PREDICATE-FULL,"in a segment where engineering excellence sells cars , audi claims the turbo - four a4 delivers best - in - class fuel economy , while posting quicker 0 - 60 mph acceleration times than six - cylinder , all - wheel - drive competitors such as the bmw 328ix , mercedes - benz c300 4matic , and lexus is250 awd ."
+audi,audi,quicker 0 - 60 mph acceleration times,PREDICATE-FULL,"in a segment where engineering excellence sells cars , audi claims the turbo - four a4 delivers best - in - class fuel economy , while posting quicker 0 - 60 mph acceleration times than six - cylinder , all - wheel - drive competitors such as the bmw 328ix , mercedes - benz c300 4matic , and lexus is250 awd ."
+290 - hp lexus,310 - hp audi,no quicker,PREDICATE-FULL,"but it ' s no quicker than the 300 - hp cadillac , barely quicker ( by just . 06 sec ) than the 310 - hp audi and slower than the 290 - hp lexus ."
+it,290 - hp lexus,barely quicker,PREDICATE-FULL,"but it ' s no quicker than the 300 - hp cadillac , barely quicker ( by just . 06 sec ) than the 310 - hp audi and slower than the 290 - hp lexus ."
+it,300 - hp cadillac,slower,PREDICATE-FULL,"but it ' s no quicker than the 300 - hp cadillac , barely quicker ( by just . 06 sec ) than the 310 - hp audi and slower than the 290 - hp lexus ."
+mercedes - benz e - class,lexus gs300,longer,PREDICATE-FULL,"at 4961mm long and 1877mm wide , on a lengthy 2909mm wheelbase , the xf is 45mm longer and 25mm wider than its nearest ' dimensional ' competitor , the audi a6 with even greater advantages over the bmw 5 - series , lexus gs300 and mercedes - benz e - class ."
+mercedes - benz e - class,lexus gs300,wider,PREDICATE-FULL,"at 4961mm long and 1877mm wide , on a lengthy 2909mm wheelbase , the xf is 45mm longer and 25mm wider than its nearest ' dimensional ' competitor , the audi a6 with even greater advantages over the bmw 5 - series , lexus gs300 and mercedes - benz e - class ."
+audi q5,lexus nx 200t,wider,PREDICATE-FULL,audi q5 looks much wider than lexus nx 200t .
+audi tt,lexus is 350c,wider,PREDICATE-FULL,"dimensions since the audi tt is much wider than the lexus is 350c , finding a wide enough spot in a parking lot may be a bit more challenging ."
+audi,lexus,superior,PREDICATE-FULL,audi is superior in some aspects but after riding in lexus found lexus not to be inferior to audi in some things .
+audi,audi,not to be inferior,PREDICATE-FULL,audi is superior in some aspects but after riding in lexus found lexus not to be inferior to audi in some things .
+benz 3,benz 3,inferior,PREDICATE-FULL,in no way is lexus inferior to bmw / audi / benz 3 .
+audi,audi,inferior,PREDICATE-FULL,"lexus is inferior to bmw , mb , and audi in the performance segment ."
+mercedes benz,mercedes benz,inferior,PREDICATE-FULL,"we have had some healthy debate over the past few days and i would like to give some reasons why lexus is inferior to audi , bmw and mercedes benz ."
+audi,audi,inferior,PREDICATE-FULL,"we should say that lexus is inferior , when compared to bmw , mb , and audi when it comes to performance ."
+bmw,bmw,superior,PREDICATE-FULL,the bmw - mercedes benz and now audi have always been superior to lexus .
+ferrari,mercedes,better,PREDICATE-FULL,"one commercial , for example , portrays audi as a better alternative to a lexus , mercedes and even a ferrari ."
+audi,audi,growing faster,PREDICATE-FULL,"audi joined the top league when it came out with the advertisement which mentioned , audi is growing faster than bmw , lexus & mercedes ."
+audi,audi,on par with,PREDICATE-FULL,"lexus is definitely on par with if not better than mercedes , bmw , or audi ."
+lexus,audi,better,PREDICATE-FULL,"lexus is definitely on par with if not better than mercedes , bmw , or audi ."
+audi,lexus,better,PREDICATE-FULL,in the d segment audi was again headed by bmw and mercedes - benz but better than lexus .
+audi,audi,better to drive,PREDICATE-FULL,plus lexus cars are far better to drive than bmw ' s and bentley ' s and certainly better than audi .
+lexus,bmw,better,PREDICATE-FULL,plus lexus cars are far better to drive than bmw ' s and bentley ' s and certainly better than audi .
+volvo,audi,outhandles,PREDICATE-FULL,"outhandles a bmw , more reliable than a lexus , better made than a audi , safer than a volvo ."
+volvo,volvo,more reliable,PREDICATE-FULL,"outhandles a bmw , more reliable than a lexus , better made than a audi , safer than a volvo ."
+bmw,bmw,better made,PREDICATE-FULL,"outhandles a bmw , more reliable than a lexus , better made than a audi , safer than a volvo ."
+bmw,lexus,safer,PREDICATE-FULL,"outhandles a bmw , more reliable than a lexus , better made than a audi , safer than a volvo ."
+catera,bmw 328i,lighter,PREDICATE-FULL,"maximum brake testing further betrayed the catera ' s weight with a 60 - to - zero distance of 131 feet ; 6 feet more than a 1999 bmw 328i and 9 feet more than an audi a4 2 . 8 quattro we tested last year , and 17 feet more than a lexus is 300 we tested last month ( all of which are over 400 pounds lighter than the caddy )."
+lexus,audi,better,PREDICATE-FULL,i thought lexus was supposed to be a better value than benz / bmw / audi .
+lexus,lexus,better brand value proposition,PREDICATE-FULL,"lexus has a better brand value proposition than volvo or infiniti , and reliability is unquestionably higher than the bmw or audi competition ."
+lexus,audi,more expensive,PREDICATE-FULL,"i cannot say this mattered to me a great deal , since i keep my cars a long time , and since i expect any resale value on the lexus would have been greater than on the audi , but it is more expensive ."
+audi,lexus,holds its value better,PREDICATE-FULL,audi holds its value better then a lexus .
+audi a4,bmw 3 - series,handles better,PREDICATE-FULL,"it handles better than the lexus and volvo s60r , is faster than both the bmw 3 - series and the audi a4 , and costs thousands of dollars less than all of them ."
+it,audi a4,faster,PREDICATE-FULL,"it handles better than the lexus and volvo s60r , is faster than both the bmw 3 - series and the audi a4 , and costs thousands of dollars less than all of them ."
+it,lexus,costs thousands of dollars less,PREDICATE-FULL,"it handles better than the lexus and volvo s60r , is faster than both the bmw 3 - series and the audi a4 , and costs thousands of dollars less than all of them ."
+lexus rc f,lexus rc f,faster,PREDICATE-FULL,"in a pure performance mode , the lexus rc f really seems to take the cake , a full two seconds faster than the bmw m4 and audi rs 5 ."
+infinity q45,taurus sho,as fast as,PREDICATE-FULL,"thats as fast as a bmw 528i , camaro , lexus es300 , se grand am , subaru svx and faster than a acura 3 . 5rl , audi a4 quattro , bmw z3 & 740i , taurus sho and infinity q45 ."
+infinity q45,taurus sho,faster,PREDICATE-FULL,"thats as fast as a bmw 528i , camaro , lexus es300 , se grand am , subaru svx and faster than a acura 3 . 5rl , audi a4 quattro , bmw z3 & 740i , taurus sho and infinity q45 ."
+330,jaguar s - type 3 . 0,faster,PREDICATE-FULL,"at that time , 330 was beated by several competitors ( lexus is350 and infiniti g35 with 300 hp or more ), but it still ran faster in 0 - 60 than many ( mb c350 , audi a4 3 . 2 , jaguar s - type 3 . 0 , ...)."
+audi,lexus,faster,PREDICATE-FULL,audi is faster than lexus .
+lexus rc,cadillac,faster,PREDICATE-FULL,"the lexus rc comes only with a v - 6 , but it doesn ' t feel appreciably faster than the turbocharged cadillac , likely due to the extra weight it ' s lugging around ."
+jaguar,lexus,faster,PREDICATE-FULL,"the 2007 cadillac xlr is faster than its competitors from mercedes - benz , lexus and jaguar ; and offers fresh , distinctive styling ."
+cadillac,cadillac,better engineered,PREDICATE-FULL,"the problem was cadillac couldn ' t make the magic after 1980 and the 1985 front drivers were constantly delayed because cadillac realized it was making the wrong car : a tiny , lightweight front wheel drive sedan that was ugly and under powered - when buyers were buying a better engineered , faster , yet more expensive cars from mercedes , then lexus and others ."
+cadillac,lexus,faster,PREDICATE-FULL,"the problem was cadillac couldn ' t make the magic after 1980 and the 1985 front drivers were constantly delayed because cadillac realized it was making the wrong car : a tiny , lightweight front wheel drive sedan that was ugly and under powered - when buyers were buying a better engineered , faster , yet more expensive cars from mercedes , then lexus and others ."
+cadillac,cadillac,more expensive,PREDICATE-FULL,"the problem was cadillac couldn ' t make the magic after 1980 and the 1985 front drivers were constantly delayed because cadillac realized it was making the wrong car : a tiny , lightweight front wheel drive sedan that was ugly and under powered - when buyers were buying a better engineered , faster , yet more expensive cars from mercedes , then lexus and others ."
+lexus,cadillac,nicer,PREDICATE-FULL,the lexus is very nice maybe even nicer than a cadillac ( whole different thread ) but that thread would be a much closer comparison .
+lexus,lexus,nicer,PREDICATE-FULL,"this was my first cadillac / domestic car in general , as i am an import type of guy and i would have to say that cadillacs are much nicer than mercedes and lexus ' as far as luxury goes ."
+cadillac ats,lexus gs 350,shorter,PREDICATE-FULL,"the cadillac ats is slightly shorter than the lexus gs 350 , which may make it easier to park ."
+cadillac ats,lexus gs 350,easier to park,PREDICATE-FULL,"the cadillac ats is slightly shorter than the lexus gs 350 , which may make it easier to park ."
+cadillac ats,lexus gs 350,narrower,PREDICATE-FULL,"dimensions the cadillac ats is a little narrower than the lexus gs 350 , so you ' ll have an easier time getting in and out of the car in a tight parking spot ."
+cadillac ats,lexus gs 350,easier time getting in and out of the car,PREDICATE-FULL,"dimensions the cadillac ats is a little narrower than the lexus gs 350 , so you ' ll have an easier time getting in and out of the car in a tight parking spot ."
+lexus,lexus,ahead,PREDICATE-FULL,"there ' s lincoln , buick , and cadillac ahead of infiniti , and not too far behind lexus ."
+lincoln,buick,behind,PREDICATE-FULL,"there ' s lincoln , buick , and cadillac ahead of infiniti , and not too far behind lexus ."
+buick radios,cadillac radios,nicer,PREDICATE-FULL,those buick radios are just a whole lost nicer than the stock cadillac radios .
+buick,cadillac,bigger seller in china,PREDICATE-FULL,"buick is a much , much bigger seller in china - the chinese seem to prefer the rounded styling of most current buicks to the edgy , expressive design language of the current cadillac model line - up ."
+buick,cadillac,better,PREDICATE-FULL,just as long as they make buick the equivalent or slightly better than what cadillac is now .
+buick,olds,faster,PREDICATE-FULL,"the 307 in the buick and olds wouldn ' t set any speed records , but they were faster than the cadillac , way more reliable , and ran forever ."
+buick,olds,more reliable,PREDICATE-FULL,"the 307 in the buick and olds wouldn ' t set any speed records , but they were faster than the cadillac , way more reliable , and ran forever ."
+cadillac,buick,grow faster,PREDICATE-FULL,"for example , cadillac continues to grow faster than it has been almost 40 years and buick just returned its 14 th consecutive month of higher retail sales versus the prior year ."
+buick,cadillac,higher average road - test score,PREDICATE-FULL,"notably , buick earned a higher average road - test score than cadillac but was hurt by weak reliability ."
+buick,cadillac,higher horsepower engine,PREDICATE-FULL,"in 1940 , buick had a higher horsepower engine than the cadillac at 141 horsepower vs . cadillac ' s 140 ."
+buick,cadillac,higher status,PREDICATE-FULL,"as most of you may know in china the "" buick "" name plate actually holds a slightly higher status than does cadillac ."
+cadillac,buick,sharper lines,PREDICATE-FULL,"cadillac has sharper lines , appealing to an edgier personality than softer and smoother buick ."
+cadillac,buick,softer,PREDICATE-FULL,"cadillac has sharper lines , appealing to an edgier personality than softer and smoother buick ."
+cadillac,buick,smoother,PREDICATE-FULL,"cadillac has sharper lines , appealing to an edgier personality than softer and smoother buick ."
+buick lacrosse,cadillac ats,more vehicle for the money,PREDICATE-FULL,"a buick lacrosse is a lot more vehicle for the money than a cadillac ats , too , but only if you want a bigger , softer , floatier , highway - bound sedan ."
+chevy,pontiac,better,PREDICATE-FULL,"gm was the worst because then had to make a cadillac better than an oldsmobile , which was better than a buick , which was better than a pontiac , which was better than a chevy ."
+chevy,pontiac,better,PREDICATE-FULL,"gm was the worst because then had to make a cadillac better than an oldsmobile , which was better than a buick , which was better than a pontiac , which was better than a chevy ."
+cadillac,chevy,better,PREDICATE-FULL,"gm was the worst because then had to make a cadillac better than an oldsmobile , which was better than a buick , which was better than a pontiac , which was better than a chevy ."
+cadillac,oldsmobile,better,PREDICATE-FULL,"gm was the worst because then had to make a cadillac better than an oldsmobile , which was better than a buick , which was better than a pontiac , which was better than a chevy ."
+cadillacs,cadillacs,better,PREDICATE-FULL,i also remember cadillacs of this vintage would show rust rather quickly - they weren ' t better than an oldsmobile or buick in that regard .
+cadillac sales,cadillac sales,in better shape,PREDICATE-FULL,"still , though cadillac sales were flat last year at 235 , 000 cars , it ' s in better shape than , say , pontiac , buick , or saturn ."
+chevy,chevy,better,PREDICATE-FULL,"the model overlap is to close together to make a cadillac better than a buick , buick better than chevy ... ."
+cadillac,cadillac,better,PREDICATE-FULL,"the model overlap is to close together to make a cadillac better than a buick , buick better than chevy ... ."
+escalade,escalade,better highway fuel consumption,PREDICATE-FULL,"according to cadillac , the escalade records about 13 - per - cent better highway fuel consumption than the mercedes - benz gl550 and almost 17 - per - cent greater than the lexus lx 570 and land rover range rover ."
+lexus,cadillac,higher class,PREDICATE-FULL,i don ' t really think lexus is looked at as higher class than cadillac .
+honda,toyota,score higher,PREDICATE-FULL,"cadillac , lincoln and jaguar all score higher than mb , along with the usual suspects , lexus , infiniti , toyota , honda , etc .: ."
+cadillac srx,lexus rx 350,more horsepower,PREDICATE-FULL,the cadillac srx has a little more horsepower than the lexus rx 350 .
+cadillac,lexus,better,PREDICATE-FULL,"my best analogy to the article is : cadillac is better than lexus because they sold more vehicles in the us we all know that the conclusion doesn ' t fit the statement because of several factors ( cost , availability , etc )."
+cadillac suv,audi suv,sucks compared to,PREDICATE-FULL,my dad bought a cadillac suv which he now said sucks compared to the comparable priced audi suv and nothing rides smoother and quieter than a full size lexus .
+cadillac dts,lexus 430,better fuel economy and price,PREDICATE-FULL,"hands down , the cadillac dts offers better fuel economy and price than a lexus 430 ."
+equus,cadillac,as refined as,PREDICATE-FULL,so how you came to the conclusion that the equus isn ' t as refined as a cadillac but would be as refined as a lexus is beyond comprehension .
+equus,cadillac,as refined as,PREDICATE-FULL,so how you came to the conclusion that the equus isn ' t as refined as a cadillac but would be as refined as a lexus is beyond comprehension .
+nokia lumia 810,samsung galaxy s,smarter,PREDICATE-FULL,"bottom line , the nokia lumia 810 has been a much smarter smartphone than my samsung galaxy s . ."
+nokia,samsung,superior,PREDICATE-FULL,i no more defend that nokia is superior to samsung as i did all tese days .
+samsung,nokia,favor,PREDICATE-FULL,who doesn ' t favor samsung over nokia these days .
+samsung,nokia,easier to use,PREDICATE-FULL,and nokia is easier to use ...... it easily gets infected with virus and the net speed is not fast ..... and ofcourse nokia is way more reliable than samsung ..... go for nokia ..... this phone suxxxxxxxxxxxxxxxxxxxxxx !
+nokia,nokia,more reliable,PREDICATE-FULL,and nokia is easier to use ...... it easily gets infected with virus and the net speed is not fast ..... and ofcourse nokia is way more reliable than samsung ..... go for nokia ..... this phone suxxxxxxxxxxxxxxxxxxxxxx !
+nokia,samsung,easier to compete with,PREDICATE-FULL,"yeah , it ' s much easier to compete with nokia than samsung ."
+nokia,samsung s3,easier to operate,PREDICATE-FULL,nokia is much more easier to operate then with the samsung s3 for example .
+iphone 4,iphone 4,better camera,PREDICATE-FULL,"the nokia n8 has a much better camera , the samsung galaxy s has a richer screen of a similar size and the iphone 4 has a way better app support ."
+nokia n8,nokia n8,richer screen,PREDICATE-FULL,"the nokia n8 has a much better camera , the samsung galaxy s has a richer screen of a similar size and the iphone 4 has a way better app support ."
+nokia n8,samsung galaxy s,better app support,PREDICATE-FULL,"the nokia n8 has a much better camera , the samsung galaxy s has a richer screen of a similar size and the iphone 4 has a way better app support ."
+samsung,nokia,easier to use,PREDICATE-FULL,i think its better to go for nokia express music stuff ........ the software in this mobile is slower comparing to nokia ..... and nokia is easier to use ...... it easily gets infected with virus and the net speed is not fast ..... and ofcourse nokia is way more reliable than samsung ..... go for nokia ..... this phone suxxxxxxxxxxxxxxxxxxxxxx !
+this mobile,nokia,more reliable,PREDICATE-FULL,i think its better to go for nokia express music stuff ........ the software in this mobile is slower comparing to nokia ..... and nokia is easier to use ...... it easily gets infected with virus and the net speed is not fast ..... and ofcourse nokia is way more reliable than samsung ..... go for nokia ..... this phone suxxxxxxxxxxxxxxxxxxxxxx !
+nokia,samsung,better wp8,PREDICATE-FULL,... nokia will do a far better wp8 than samsung ....
+nokia,nokia,sell better,PREDICATE-FULL,so of course nokia can sell better than samsung and htc ' s wp8 .
+nokia,samsung,best hardware,PREDICATE-FULL,nokia makes the best hardware ( in all wp8 phone ) much better than samsung .
+nokia,nokia,technologically superior,PREDICATE-FULL,"not really true - nokia nok had a prototype touchscreen before the iphone was launched , and its smartphones were technologically superior to anything apple aapl , samsung , or google goog had to offer during the late 1990s ."
+nokia asha,samsung rex,better gaming,PREDICATE-FULL,"smartphone wars : nokia asha vs samsug rex don ' t be surprised , for the nokia asha series smartphones offer better gaming , music , internet and social experience than phones that come under the samsung rex brand ."
+samsung galaxy nexus,nokia lumia 800,thinner,PREDICATE-FULL,"amazingly , despite the massive discrepancy in screen size , the samsung galaxy nexus is both thinner and lighter than the nokia lumia 800 ."
+samsung galaxy nexus,nokia lumia 800,lighter,PREDICATE-FULL,"amazingly , despite the massive discrepancy in screen size , the samsung galaxy nexus is both thinner and lighter than the nokia lumia 800 ."
+nokia lumia 928,samsung galaxy s4,higher user rating,PREDICATE-FULL,nokia lumia 928 has higher user rating than samsung galaxy s4 on verizon .
+nokia lumia 930,samsung galaxy s5,higher - resolution sensor,PREDICATE-FULL,the nokia lumia 930 has a higher - resolution sensor than the samsung galaxy s5 .
+samsung,nokia,higher revenues,PREDICATE-FULL,"in other words , samsung was registering higher revenues in india than nokia by selling fewer phones ."
+galaxy s4,samsung,take shots much quicker,PREDICATE-FULL,"comparing night mode on the galaxy s4 zoom versus the nokia lumia 1020 , i find that the lumia 1020 is able to take shots much quicker and that camera doesn ' t need to do the multiple exposure and stitching that ' s done on the samsung ."
+samsung e2252,nokia 112,bigger is size,PREDICATE-FULL,size and shape : samsung e2252 is bigger is size but position and shape of keypad along with bigger screen is designed in a way that phone itself feels waf comfortable while holding and at the same time texting feels better than nokia 112 .
+samsung e2252,nokia 112,bigger screen,PREDICATE-FULL,size and shape : samsung e2252 is bigger is size but position and shape of keypad along with bigger screen is designed in a way that phone itself feels waf comfortable while holding and at the same time texting feels better than nokia 112 .
+samsung e2252,nokia 112,texting feels better,PREDICATE-FULL,size and shape : samsung e2252 is bigger is size but position and shape of keypad along with bigger screen is designed in a way that phone itself feels waf comfortable while holding and at the same time texting feels better than nokia 112 .
+samsung,nokia,bigger,PREDICATE-FULL,samsung now bigger than nokia in mobile
+samsung,nokia,bigger,PREDICATE-FULL,today samsung is 25 % bigger than nokia .
+samsung,nokia,bigger screen,PREDICATE-FULL,samsung has a 0 . 5 inch bigger screen than nokia .
+samsung,nokia,better clarity and reception,PREDICATE-FULL,"after the incident , i scaled down and bought a very basic tata samsung phone , which incidentally had better clarity and reception than my earlier nokia devie ."
+samsung,nokia,better camera and music quality,PREDICATE-FULL,"th3 obs3rv3r , 14 feb 2013 samsung phones hav better camera and music quality than nokia ."
+samsung,microsoft - nokia combine,better quality,PREDICATE-FULL,i have now shifted onto samsung as they are providing better quality than microsoft - nokia combine .
+samsung,sony,lowest quality,PREDICATE-FULL,"nokia are really the lowest quality among the established brands , ans statistics from my carrier show that their service is slower than sony and samsung , where sony managed to return 93 % of phones within 6 days nokia barely made it to 60 %."
+lg c105,lg c105,cheaper,PREDICATE-FULL,its priced is at 4200 inrs ... more lg c105 and samsung b3210 come @ a cheaper rate nd r better than boththe nokia options
+lg c105,lg c105,better,PREDICATE-FULL,its priced is at 4200 inrs ... more lg c105 and samsung b3210 come @ a cheaper rate nd r better than boththe nokia options
+nokia,samsung,cheaper,PREDICATE-FULL,wait for nokia moves /// slow but surely general price of nokia phones are cheaper than samsung .
+nokia,htc,cheaper,PREDICATE-FULL,"samsung , htc to price wp8 models cheaper than nokia , digitimes reports samsung ( ssnlf ) and htc are expected to price wp8 models at cheaper rates to counter comparable models from nokia ( nok ), reports digitimes ."
+htc,samsung,cheaper,PREDICATE-FULL,"samsung , htc to price wp8 models cheaper than nokia , digitimes reports samsung ( ssnlf ) and htc are expected to price wp8 models at cheaper rates to counter comparable models from nokia ( nok ), reports digitimes ."
+moto x,moto x,cheaper camera hardware,PREDICATE-FULL,the moto x and nexus 5 have somewhat cheaper camera hardware ( just like samsung has cheaper camera hardware than nokia ).
+moto x,nexus 5,cheaper camera hardware,PREDICATE-FULL,the moto x and nexus 5 have somewhat cheaper camera hardware ( just like samsung has cheaper camera hardware than nokia ).
+samsung focus 2,nokia lumia 900,cheaper,PREDICATE-FULL,the samsung focus 2 is a cheaper alternative to range - topping windows phones like the nokia lumia 900 .
+samsung renown,samsung renown,better cameras,PREDICATE-FULL,"that or the samsung renown , or the casio exilim , all recent - enough phones , with better cameras than the lg8600 , the nokia is especially nice and thin , and none of them require the data package ."
+nokia n8,nokia n8,not superior,PREDICATE-FULL,"so no nokia n8 is not superior to sgs3 or iphone 5 , it is not even beat samsung fascinate which only has 5mp camera module ."
+nokia n8,nokia n8,worse camera,PREDICATE-FULL,"for example he was acclaiming , that nokia n8 has a worse camera , than se satio or samsung s8500 ."
+samsung,nokia,better,PREDICATE-FULL,samsung phones are doing much better than nokia .
+htc,htc,launch their phones faster,PREDICATE-FULL,"samsung , htc and others will launch their phones faster than nokia ."
+samsung,apple,rules the roost,PREDICATE-FULL,"in the smartphones segment , nokia still rules the roost , albeit at a slower pace , with 34 . 9 per cent of the market followed by rim with 28 . 3 per cent , apple with 11 . 6 per cent and samsung with 8 . 6 per cent ."
+toshiba player,samsung,cheaper,PREDICATE-FULL,the toshiba player is also significantly cheaper than the samsung .
+toshiba,samsung,cheaper,PREDICATE-FULL,so decided to go with toshiba since it was almost 300 cheaper than samsung .
+samsung lcd tv,toshiba,cheaper,PREDICATE-FULL,although toshiba is a market leader in japan but as far as the hold in uk market is concerned then there is an edge for samsung as the price of samsung samsung lcd tv ' s are much more cheaper than toshiba with several other added features .
+toshiba drives,samsung drives,slower,PREDICATE-FULL,the problem is that the toshiba drives are noticeably slower than the newer samsung drives .
+lg,toshiba,showed improvement,PREDICATE-FULL,"in comparing the three tvs , the newer lg and toshiba models had comparable contrast , and both models showed improvement over the first - gen samsung ."
+samsung drives,toshiba drives,faster,PREDICATE-FULL,the samsung drives are slightly faster than the toshiba drives .
+samsung,toshiba,faster,PREDICATE-FULL,"the samsung takes second place , being just a little faster than the toshiba ."
+samsung ssd,toshiba,faster,PREDICATE-FULL,according to tests ( chart below ) the samsung ssd is significantly faster than the toshiba version .
+samsung,toshiba,faster,PREDICATE-FULL,"i know little about hard disk benchmarks , but the samsung looks like it is quite a bit faster than the toshiba ."
+toshiba - based ssd,samsung,slower performance,PREDICATE-FULL,"that ' s a bit reminiscent of a similar issue with the 2011 machines , if you got the toshiba - based ssd , you got slower performance than the samsung ."
+samsung based drive,samsung based drive,faster,PREDICATE-FULL,"the good news is that even in this state the toshiba drive is faster than the previous generation apple ssds , the bad news is the new samsung based drive is significantly quicker ."
+toshiba drive,apple ssds,quicker,PREDICATE-FULL,"the good news is that even in this state the toshiba drive is faster than the previous generation apple ssds , the bad news is the new samsung based drive is significantly quicker ."
+samsung,toshiba,bigger,PREDICATE-FULL,"samsung was also bigger than the accumulated totals of toshiba , no . 4 micron technology and fifth - ranked elpida memory ."
+toshiba hard drive,samsung ssd pcie - based hard drive,bigger,PREDICATE-FULL,because the older toshiba hard drive was bigger and occupied more space than the current samsung ssd pcie - based hard drive .
+toshiba hard drive,samsung ssd pcie - based hard drive,occupied more space,PREDICATE-FULL,because the older toshiba hard drive was bigger and occupied more space than the current samsung ssd pcie - based hard drive .
+toshiba,samsung,bigger production volumes,PREDICATE-FULL,"while toshiba invented the chips more than a decade ago , samsung has seized the lead with bigger production volumes and lower prices ."
+toshiba,samsung,lower prices,PREDICATE-FULL,"while toshiba invented the chips more than a decade ago , samsung has seized the lead with bigger production volumes and lower prices ."
+hd - dvd,blu - ray,better,PREDICATE-FULL,"while hd - dvd won the first round earlier this year -- its toshiba hd - a1 and most hd - dvd movies definitely looked better than did the initial blu - ray player , the samsung bd - p1000 , and its accompanying blu - ray movies -- the difference between the two formats is disappearing quickly ."
+sandisk cards,sandisk cards,higher price,PREDICATE-FULL,this means that samsung microsd cards should naturally carry a slightly higher price than toshiba / sandisk cards .
+samsung,dell,higher returns,PREDICATE-FULL,"great linux support in general , higher returns than toshiba / asus but by far lower than hp / acer / dell / samsung ."
+toshiba,seagate,higher power consumption,PREDICATE-FULL,"toshiba and seagate share the second spot , and samsung falls behind because of its higher power consumption at peak streaming reads ."
+toshiba,samsung,higher and more common resolution,PREDICATE-FULL,"ok found that toshiba , i would say go for that over the samsung one , it ' s only £ 50 more and has a much higher and more common resolution ."
+macbook air,macbook air,lighter,PREDICATE-FULL,"the toshiba z830 is a half pound lighter than the samsung series 9 or macbook air , and just a bit smaller all around ."
+toshiba z830,toshiba z830,smaller,PREDICATE-FULL,"the toshiba z830 is a half pound lighter than the samsung series 9 or macbook air , and just a bit smaller all around ."
+apple ipad 2,toshiba thrive,lighter,PREDICATE-FULL,"like the toshiba thrive , the ideapad k1 seems heavier than it is when compared to the lighter samsung galaxy tab 10 . 1 or the apple ipad 2 ."
+toshiba tablet,it,heavier,PREDICATE-FULL,"weighing 680g , it ' s heavier than the featherweight samsung galaxy tab 10 . 1v , but lighter than the toshiba tablet ."
+it,it,lighter,PREDICATE-FULL,"weighing 680g , it ' s heavier than the featherweight samsung galaxy tab 10 . 1v , but lighter than the toshiba tablet ."
+asus eee pad transformer,acer iconia tab a500,lighter,PREDICATE-FULL,"samsung galaxy tab 10 . 1 , but it ' s lighter than the motorola zoom , toshiba thrive , acer iconia tab a500 and the same as the venerable asus eee pad transformer ."
+samsung galaxy tab 10 . 1,samsung galaxy tab 10 . 1,same as,PREDICATE-FULL,"samsung galaxy tab 10 . 1 , but it ' s lighter than the motorola zoom , toshiba thrive , acer iconia tab a500 and the same as the venerable asus eee pad transformer ."
+asus u41jf - a1,samsung sf310,lighter,PREDICATE-FULL,"the samsung sf310 measures 1 . 3 by 4 . 6 by 9 . 2 - inches ( hwd ), and weighs 4 . 5 pounds , lighter than both the 5 - pound toshiba satellite m645 - s4080 ($ 1 , 100 street , 3 stars ) and the 4 . 7 - pound editors ' choice asus u41jf - a1 ."
+toshiba,samsung,better,PREDICATE-FULL,we were interested in toshiba after we saw that toshiba was better than samsung because it had clear picture and extreme sound .
+mitsubishi,jvc,better scores,PREDICATE-FULL,toshiba and jvc have gotten consistently better scores in testing in various home theater magazines than samsung ( a very digital picture ) or mitsubishi ( more noise than some others ).
+toshiba,samsung,sharper picture,PREDICATE-FULL,i think the toshiba still presents a slightly sharper picture overall when compared to the samsung .
+samsung 3d led tv,toshiba 25 clunker,worse sound,PREDICATE-FULL,my $ 2000 samsung 3d led tv has worse sound than my 30 - year old toshiba 25 clunker because the speakers face the brick wall behind it .
+it,amd a6,better - sounding proposition,PREDICATE-FULL,"it ' s the same processor as in the toshiba satellite u50t , and a better - sounding proposition than the low - power amd a6 parts inside the samsung and asus laptops - although it may face a stiffer test when up against the lenovo ' s beefy amd a10 apu ."
+toshiba,ipad,slimmer,PREDICATE-FULL,"design toshiba makes much of the at200 ' s thinness , and rightly so : at 7 . 7mm it ' s slimmer than the samsung galaxy tab 10 . 1 ( 8 . 6mm ) and the ' new ' ipad ( 9 . 4mm ), although there ' s every likelihood that something thinner will appear before long and steal its thunder ."

@@ -1,0 +1,25 @@
+progress {
+  display:block;
+  width:100%;
+  height:20px;
+  margin-bottom:1em;
+}
+
+.reset {
+  progress {
+    -webkit-appearance: none;
+    appearance: none;
+  }
+  
+  progress:not([value]) {
+    // Style indeterminate progress bars
+  }
+  
+  progress[value] {
+    // Style determinate progress bars
+  }
+}
+View Compiled
+
+
+Resources
