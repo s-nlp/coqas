@@ -1,8 +1,10 @@
 # CoQAS (Comparative question answering)
 
-The current demo is here https://nlp.zhores.net/coqas/
+To ensure reproducibility, we publicly release our code and data. 
 
-The highlighting video: 
+Additionally, we captured a video to demonstrate how the the system work: https://youtu.be/_DltlG-TMcc
+
+The current demo is here https://nlp.zhores.net/coqas/
 
 Please enter the question like "What is better bread or pizza ? " "What is cheaper for travelling plain or bus ?"
 
