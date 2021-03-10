@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# CoQAS (Comparative question answering)
 
-You can use the [editor on GitHub](https://github.com/skoltech-nlp/coqas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To ensure reproducibility, we publicly release our code and data. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Additionally, we captured a video to demonstrate how the the system work: https://youtu.be/_DltlG-TMcc
 
-### Markdown
+The current demo is here https://nlp.zhores.net/coqas/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please enter the question like "What is better bread or pizza ? " "What is cheaper for travelling plain or bus ?"
 
-```markdown
-Syntax highlighted code block
+The example of answer, generated for the response "What is better tea or coffee?" 
 
-# Header 1
-## Header 2
-### Header 3
+**Snippets:**
 
-- Bulleted
-- List
+"I did feel a bit more relaxed after drinking it too...I wonder if it was legitimate or just the product marketing? The taste is smooth and mellow with a slight hint of chocolate. It's heartier than regular tea and lighter (and better for your health) than coffee. Let the patient's taste decide. In general, the dry and dirty tongue always prefers tea to coffee, and will quite decline milk, unless with tea. Coffee is a better restorative than tea, but a greater impairer of the digestion."
 
-1. Numbered
-2. List
+**CAM**
 
-**Bold** and _Italic_ and `Code` text
+"Tea is better than coffee. 
+On the one hand: 
+1) It's heartier than regular tea and lighter (and better for your health) than coffee. 
+2) if tea is better tasting than coffee or if clean air is easier to . 
+3) Also, Lutherans make better coffee than Methodists, but Southern Baptists make much worse coffee; stick to the iced tea. 
+On the other hand: 
+1) Coffee is a better restorative than tea, but a greater impairer of the digestion. 
+2) Coffee is a better re- storative than tea, but a greater impairer of the diges- tion. 
+3) Coffee is better than tea 9."
 
-[Link](url) and ![Image](src)
-```
+**CTRL**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The answer to this question depends on the type of tea. If you are looking for a cup that has some caffeine and flavor, then go with green teas. Green teas have caffeine, but they also contain antioxidants which help prevent cancer cells. They can be used as an alternative to coffee because it does not produce any stomach upset like coffee. However, if you want something more relaxing than coffee, try black tea, especially when drinking in the evening. Black tea contains natural flavors, such as cinnamon, nutmeg, ginger, cloves, etc.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skoltech-nlp/coqas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# .
 
-### Support or Contact
+Main backend module: *backend_extr.py* (used functionality in *utils.py, my_functions.py, generation/generation.py*)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Main frontend module: *frontend/frontend_sender.py*
+
+NLU part in *NLU/*
+
+NLG part in *generation/*
+
+If you have any question about code ans system architecture, please write to sayankotor1@gmail.com
