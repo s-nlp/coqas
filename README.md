@@ -2,9 +2,9 @@
 
 This repository contains materials related to the following paper at the EACL-2021 conference at the demo track: 
 
-``
-Chekalina, V., Bondarenko, A., Biemann, C., Beloucif, M., Logacheva, V., Panchenko, A. (2021): Which is Better for Deep Learning: Python or MATLAB? Answering Comparative Questions in Natural Language. In Proceedings of 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Kiev, Ukraine (online). 
-``
+
+> Chekalina, V., Bondarenko, A., Biemann, C., Beloucif, M., Logacheva, V., Panchenko, A. (2021): Which is Better for Deep Learning: Python or MATLAB? Answering Comparative Questions in Natural Language. In Proceedings of 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Kiev, Ukraine (online). 
+
 
 A sample output of the system is presented below:
 
