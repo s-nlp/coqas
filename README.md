@@ -50,3 +50,14 @@ NLU part in *NLU/*
 NLG part in *generation/*
 
 If you have any question about the system write an issue or drop an email to [Victoriia](mailto:sayankotor1@gmail.com).
+
+# Reproducibility
+
+For the convenience of reproducibility, we have prepared a Docker file with a description of the environment and requirements.txt with the required modules and their versions.
+
+To reproduce enviroment:
+1) Go to Docker folder
+2) Make *docker build ./* command in console. The result should be docker build.
+3) Run this build in way you prefer. For example, *sudo docker run --gpus all --name CONTAINER_NAME_YOU_PREFER -d -t -i -v path_to_folder:path_to_folder -p frontend_port_seen_outside:frontend_port -p backend_port_seen_outside:backend_port -m 200G --memory-swap -1 --restart always*
+4) *Frontend_port* and *Backend_port* are defined in config.ini in folder ./frontend/
+5) You can observe the start of processes and loading models in logs *sudo docker logs CONTAINER_NAME_YOU_PREFER*
